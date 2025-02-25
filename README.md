@@ -58,4 +58,43 @@ This project processes and analyzes permit data to extract insights about trends
 
 - **Growth Analysis:**
   - Compare a baseline period to the last six months.
-  - Compute percentage gr
+  - Compute percentage growth in permits per state and building type.
+  - Identify:
+    - **Top states** with highest growth.
+    - **Dominant building type** with highest growth per state and ZIP code.
+
+- **Mapping Visualizations:**
+  - Merge growth data with shapefiles (state and ZIP code level).
+  - Generate:
+    - **State-level maps** (highlighting dominant permit growth segments).
+    - **ZIP-level maps** (with subplots for high-population states).
+
+- **Plot Export:**
+  - Save all visualizations in `Raw Data/Permit Data Insights/` using `plt.savefig()`.
+
+---
+
+## 3. File Storage Methods
+
+### Directory Structure:
+- **Base Directory**: Uses the current working directory.
+- **Subdirectories**:
+  - `Raw Data/Permit Data Insights/` → Contains visualizations.
+  - `Raw Data/Semi_Datasets/` → Stores intermediate pivoted/summarized CSVs.
+  - `Raw Data/Processed_Segmented_Data/` → Holds cleaned data, cumulative sums, and growth calculations.
+
+### Saving Data:
+- **CSV Exports**: Use `DataFrame.to_csv()` with or without index as needed.
+- **Processed Files**: Store cumulative sums and monthly growth percentages in designated folders.
+
+### Plot Exports:
+- **All plots** saved in `Raw Data/Permit Data Insights/` with clear filenames:
+  - `quarterly_permits_trend.png`
+  - `dominant_segment_by_state.png`
+  - Other analysis-specific visualizations.
+
+---
+
+### Usage
+1. Run `loading.py` to process and clean permit data.
+2. Run `Understanding Data.py` to perform analysis and generate visualizations.
