@@ -1,0 +1,1475 @@
+Anomaly Detection Summary (Last 6 Months):
+Number of ZIPs with anomalous growth: 1367
+Number of ZIPs with normal growth: 12302
+
+Statistics for Anomalous ZIPs:
+Average growth rate: 5.46%
+Min growth rate: 3.18%
+Max growth rate: 142.40%
+
+Anomalies by State:
+New York: 202 anomalous ZIPs
+New Jersey: 131 anomalous ZIPs
+Pennsylvania: 103 anomalous ZIPs
+New Hampshire: 85 anomalous ZIPs
+Iowa: 81 anomalous ZIPs
+Minnesota: 52 anomalous ZIPs
+Kansas: 52 anomalous ZIPs
+Texas: 48 anomalous ZIPs
+Colorado: 46 anomalous ZIPs
+Connecticut: 44 anomalous ZIPs
+Missouri: 40 anomalous ZIPs
+Maine: 36 anomalous ZIPs
+Idaho: 34 anomalous ZIPs
+Massachusetts: 34 anomalous ZIPs
+Illinois: 32 anomalous ZIPs
+Arkansas: 31 anomalous ZIPs
+Oklahoma: 31 anomalous ZIPs
+Wisconsin: 29 anomalous ZIPs
+Ohio: 28 anomalous ZIPs
+Alabama: 22 anomalous ZIPs
+Utah: 20 anomalous ZIPs
+California: 19 anomalous ZIPs
+Vermont: 18 anomalous ZIPs
+Michigan: 18 anomalous ZIPs
+Tennessee: 17 anomalous ZIPs
+Nebraska: 15 anomalous ZIPs
+Mississippi: 14 anomalous ZIPs
+Georgia: 14 anomalous ZIPs
+Washington: 13 anomalous ZIPs
+South Dakota: 10 anomalous ZIPs
+Florida: 9 anomalous ZIPs
+Virginia: 9 anomalous ZIPs
+Indiana: 9 anomalous ZIPs
+Montana: 8 anomalous ZIPs
+Wyoming: 7 anomalous ZIPs
+New Mexico: 7 anomalous ZIPs
+North Dakota: 7 anomalous ZIPs
+Maryland: 6 anomalous ZIPs
+West Virginia: 6 anomalous ZIPs
+Louisiana: 5 anomalous ZIPs
+South Carolina: 5 anomalous ZIPs
+Arizona: 4 anomalous ZIPs
+North Carolina: 3 anomalous ZIPs
+Kentucky: 2 anomalous ZIPs
+Delaware: 2 anomalous ZIPs
+Oregon: 2 anomalous ZIPs
+Hawaii: 2 anomalous ZIPs
+Rhode Island: 1 anomalous ZIPs
+Nevada: 1 anomalous ZIPs
+
+Location Details for Anomalous ZIPs:
+ZIP: 30340, County: DeKalb County, State: Georgia, Growth: 142.40%
+ZIP: 87505, County: Roosevelt County, State: New Mexico, Growth: 128.93%
+ZIP: 06450, County: South Central Connecticut Planning Region, State: Connecticut, Growth: 34.31%
+ZIP: 06450, County: New Haven County, State: Connecticut, Growth: 34.31%
+ZIP: 01201, County: Berkshire County, State: Massachusetts, Growth: 26.41%
+ZIP: 55126, County: Ramsey County, State: Minnesota, Growth: 23.98%
+ZIP: 07826, County: Sussex County, State: New Jersey, Growth: 22.86%
+ZIP: 49435, County: Ottawa County, State: Michigan, Growth: 22.70%
+ZIP: 14519, County: Wayne County, State: New York, Growth: 21.65%
+ZIP: 03820, County: Strafford County, State: New Hampshire, Growth: 21.56%
+ZIP: 80524, County: Larimer County, State: Colorado, Growth: 21.14%
+ZIP: 48708, County: Bay County, State: Michigan, Growth: 21.14%
+ZIP: 57331, County: Hutchinson County, State: South Dakota, Growth: 21.14%
+ZIP: 53919, County: Fond du Lac County, State: Wisconsin, Growth: 21.14%
+ZIP: 51549, County: Pottawattamie County, State: Iowa, Growth: 21.14%
+ZIP: 49919, County: Baraga County, State: Michigan, Growth: 21.14%
+ZIP: 89101, County: Clark County, State: Nevada, Growth: 21.14%
+ZIP: 56311, County: Grant County, State: Minnesota, Growth: 21.14%
+ZIP: 55945, County: Wabasha County, State: Minnesota, Growth: 21.14%
+ZIP: 63821, County: Dunklin County, State: Missouri, Growth: 21.14%
+ZIP: 68783, County: Knox County, State: Nebraska, Growth: 21.14%
+ZIP: 10014, County: New York County, State: New York, Growth: 19.38%
+ZIP: 65622, County: Dallas County, State: Missouri, Growth: 19.09%
+ZIP: 07410, County: Bergen County, State: New Jersey, Growth: 17.69%
+ZIP: 07627, County: Bergen County, State: New Jersey, Growth: 17.68%
+ZIP: 08053, County: Burlington County, State: New Jersey, Growth: 16.96%
+ZIP: 60955, County: Iroquois County, State: Illinois, Growth: 16.57%
+ZIP: 67001, County: Sedgwick County, State: Kansas, Growth: 15.83%
+ZIP: 13126, County: Oswego County, State: New York, Growth: 15.51%
+ZIP: 13492, County: Oneida County, State: New York, Growth: 15.14%
+ZIP: 08403, County: Atlantic County, State: New Jersey, Growth: 15.02%
+ZIP: 33563, County: Hillsborough County, State: Florida, Growth: 14.45%
+ZIP: 03227, County: Carroll County, State: New Hampshire, Growth: 14.01%
+ZIP: 07417, County: Bergen County, State: New Jersey, Growth: 13.85%
+ZIP: 66514, County: Geary County, State: Kansas, Growth: 13.79%
+ZIP: 82082, County: Laramie County, State: Wyoming, Growth: 13.79%
+ZIP: 73008, County: Oklahoma County, State: Oklahoma, Growth: 13.75%
+ZIP: 07073, County: Bergen County, State: New Jersey, Growth: 13.59%
+ZIP: 79843, County: Presidio County, State: Texas, Growth: 13.57%
+ZIP: 81224, County: Gunnison County, State: Colorado, Growth: 13.29%
+ZIP: 37318, County: Franklin County, State: Tennessee, Growth: 13.12%
+ZIP: 06475, County: Middlesex County, State: Connecticut, Growth: 12.93%
+ZIP: 06475, County: Lower Connecticut River Valley Planning Region, State: Connecticut, Growth: 12.93%
+ZIP: 17043, County: Cumberland County, State: Pennsylvania, Growth: 12.82%
+ZIP: 63663, County: Iron County, State: Missouri, Growth: 12.71%
+ZIP: 05404, County: Chittenden County, State: Vermont, Growth: 12.57%
+ZIP: 68057, County: Dodge County, State: Nebraska, Growth: 12.22%
+ZIP: 56115, County: Lyon County, State: Minnesota, Growth: 12.22%
+ZIP: 78839, County: Zavala County, State: Texas, Growth: 12.07%
+ZIP: 83239, County: Bear Lake County, State: Idaho, Growth: 11.91%
+ZIP: 14502, County: Wayne County, State: New York, Growth: 11.90%
+ZIP: 03861, County: Strafford County, State: New Hampshire, Growth: 11.80%
+ZIP: 04092, County: Cumberland County, State: Maine, Growth: 11.59%
+ZIP: 01033, County: Hampshire County, State: Massachusetts, Growth: 11.39%
+ZIP: 38916, County: Calhoun County, State: Mississippi, Growth: 11.31%
+ZIP: 55977, County: Mower County, State: Minnesota, Growth: 11.09%
+ZIP: 57522, County: Hughes County, State: South Dakota, Growth: 11.09%
+ZIP: 50801, County: Union County, State: Iowa, Growth: 10.99%
+ZIP: 07643, County: Bergen County, State: New Jersey, Growth: 10.90%
+ZIP: 36104, County: Montgomery County, State: Alabama, Growth: 10.85%
+ZIP: 08505, County: Burlington County, State: New Jersey, Growth: 10.77%
+ZIP: 79359, County: Gaines County, State: Texas, Growth: 10.60%
+ZIP: 04449, County: Penobscot County, State: Maine, Growth: 10.51%
+ZIP: 13324, County: Herkimer County, State: New York, Growth: 10.44%
+ZIP: 13116, County: Onondaga County, State: New York, Growth: 10.33%
+ZIP: 19522, County: Berks County, State: Pennsylvania, Growth: 10.31%
+ZIP: 50588, County: Buena Vista County, State: Iowa, Growth: 10.27%
+ZIP: 04643, County: Washington County, State: Maine, Growth: 10.19%
+ZIP: 74884, County: Seminole County, State: Oklahoma, Growth: 10.18%
+ZIP: 12439, County: Greene County, State: New York, Growth: 10.16%
+ZIP: 01038, County: Hampshire County, State: Massachusetts, Growth: 10.03%
+ZIP: 01226, County: Berkshire County, State: Massachusetts, Growth: 9.93%
+ZIP: 08311, County: Cumberland County, State: New Jersey, Growth: 9.82%
+ZIP: 18519, County: Lackawanna County, State: Pennsylvania, Growth: 9.81%
+ZIP: 13634, County: Jefferson County, State: New York, Growth: 9.79%
+ZIP: 67570, County: Reno County, State: Kansas, Growth: 9.78%
+ZIP: 99348, County: Walla Walla County, State: Washington, Growth: 9.60%
+ZIP: 02653, County: Barnstable County, State: Massachusetts, Growth: 9.56%
+ZIP: 13664, County: St. Lawrence County, State: New York, Growth: 9.55%
+ZIP: 12786, County: Sullivan County, State: New York, Growth: 9.51%
+ZIP: 31023, County: Dodge County, State: Georgia, Growth: 9.47%
+ZIP: 51030, County: Woodbury County, State: Iowa, Growth: 9.41%
+ZIP: 12804, County: Warren County, State: New York, Growth: 9.39%
+ZIP: 08232, County: Atlantic County, State: New Jersey, Growth: 9.39%
+ZIP: 13440, County: Oneida County, State: New York, Growth: 9.35%
+ZIP: 84010, County: Davis County, State: Utah, Growth: 9.32%
+ZIP: 81521, County: Mesa County, State: Colorado, Growth: 9.30%
+ZIP: 13417, County: Oneida County, State: New York, Growth: 9.28%
+ZIP: 65275, County: Monroe County, State: Missouri, Growth: 9.26%
+ZIP: 01256, County: Berkshire County, State: Massachusetts, Growth: 9.22%
+ZIP: 03217, County: Grafton County, State: New Hampshire, Growth: 9.19%
+ZIP: 01267, County: Berkshire County, State: Massachusetts, Growth: 9.19%
+ZIP: 07086, County: Hudson County, State: New Jersey, Growth: 9.14%
+ZIP: 03846, County: Carroll County, State: New Hampshire, Growth: 9.03%
+ZIP: 12494, County: Ulster County, State: New York, Growth: 9.01%
+ZIP: 53579, County: Dodge County, State: Wisconsin, Growth: 9.00%
+ZIP: 65712, County: Lawrence County, State: Missouri, Growth: 8.98%
+ZIP: 13652, County: St. Lawrence County, State: New York, Growth: 8.96%
+ZIP: 83223, County: Bear Lake County, State: Idaho, Growth: 8.93%
+ZIP: 16853, County: Centre County, State: Pennsylvania, Growth: 8.92%
+ZIP: 98290, County: Snohomish County, State: Washington, Growth: 8.91%
+ZIP: 03603, County: Sullivan County, State: New Hampshire, Growth: 8.87%
+ZIP: 13903, County: Broome County, State: New York, Growth: 8.86%
+ZIP: 65781, County: Greene County, State: Missouri, Growth: 8.83%
+ZIP: 78119, County: Karnes County, State: Texas, Growth: 8.78%
+ZIP: 08515, County: Burlington County, State: New Jersey, Growth: 8.76%
+ZIP: 01050, County: Hampshire County, State: Massachusetts, Growth: 8.76%
+ZIP: 03825, County: Strafford County, State: New Hampshire, Growth: 8.74%
+ZIP: 12764, County: Sullivan County, State: New York, Growth: 8.72%
+ZIP: 17756, County: Lycoming County, State: Pennsylvania, Growth: 8.72%
+ZIP: 07620, County: Bergen County, State: New Jersey, Growth: 8.68%
+ZIP: 72631, County: Carroll County, State: Arkansas, Growth: 8.67%
+ZIP: 52211, County: Poweshiek County, State: Iowa, Growth: 8.64%
+ZIP: 63645, County: Madison County, State: Missouri, Growth: 8.63%
+ZIP: 07604, County: Bergen County, State: New Jersey, Growth: 8.60%
+ZIP: 37183, County: Bedford County, State: Tennessee, Growth: 8.44%
+ZIP: 36610, County: Mobile County, State: Alabama, Growth: 8.38%
+ZIP: 13142, County: Oswego County, State: New York, Growth: 8.35%
+ZIP: 96021, County: Tehama County, State: California, Growth: 8.33%
+ZIP: 80813, County: Teller County, State: Colorado, Growth: 8.31%
+ZIP: 99179, County: Whitman County, State: Washington, Growth: 8.28%
+ZIP: 03464, County: Cheshire County, State: New Hampshire, Growth: 8.28%
+ZIP: 16224, County: Clarion County, State: Pennsylvania, Growth: 8.27%
+ZIP: 08302, County: Cumberland County, State: New Jersey, Growth: 8.24%
+ZIP: 06750, County: Litchfield County, State: Connecticut, Growth: 8.19%
+ZIP: 06750, County: Northwest Hills Planning Region, State: Connecticut, Growth: 8.19%
+ZIP: 73762, County: Kingfisher County, State: Oklahoma, Growth: 8.13%
+ZIP: 17352, County: York County, State: Pennsylvania, Growth: 8.12%
+ZIP: 13439, County: Herkimer County, State: New York, Growth: 8.12%
+ZIP: 14819, County: Steuben County, State: New York, Growth: 8.11%
+ZIP: 49248, County: Lenawee County, State: Michigan, Growth: 8.03%
+ZIP: 04979, County: Somerset County, State: Maine, Growth: 7.98%
+ZIP: 56378, County: Stearns County, State: Minnesota, Growth: 7.90%
+ZIP: 13835, County: Tioga County, State: New York, Growth: 7.86%
+ZIP: 14513, County: Wayne County, State: New York, Growth: 7.85%
+ZIP: 74962, County: Sequoyah County, State: Oklahoma, Growth: 7.85%
+ZIP: 14522, County: Wayne County, State: New York, Growth: 7.85%
+ZIP: 43014, County: Knox County, State: Ohio, Growth: 7.85%
+ZIP: 03856, County: Rockingham County, State: New Hampshire, Growth: 7.81%
+ZIP: 44621, County: Tuscarawas County, State: Ohio, Growth: 7.79%
+ZIP: 84052, County: Duchesne County, State: Utah, Growth: 7.77%
+ZIP: 12920, County: Franklin County, State: New York, Growth: 7.75%
+ZIP: 16844, County: Centre County, State: Pennsylvania, Growth: 7.75%
+ZIP: 14590, County: Wayne County, State: New York, Growth: 7.75%
+ZIP: 48722, County: Saginaw County, State: Michigan, Growth: 7.74%
+ZIP: 07640, County: Bergen County, State: New Jersey, Growth: 7.74%
+ZIP: 72443, County: Greene County, State: Arkansas, Growth: 7.71%
+ZIP: 25247, County: Mason County, State: West Virginia, Growth: 7.71%
+ZIP: 64474, County: DeKalb County, State: Missouri, Growth: 7.71%
+ZIP: 07628, County: Bergen County, State: New Jersey, Growth: 7.69%
+ZIP: 51466, County: Sac County, State: Iowa, Growth: 7.67%
+ZIP: 14171, County: Cattaraugus County, State: New York, Growth: 7.67%
+ZIP: 72112, County: Jackson County, State: Arkansas, Growth: 7.66%
+ZIP: 49128, County: Berrien County, State: Michigan, Growth: 7.66%
+ZIP: 30230, County: Troup County, State: Georgia, Growth: 7.65%
+ZIP: 12164, County: Hamilton County, State: New York, Growth: 7.65%
+ZIP: 50060, County: Wayne County, State: Iowa, Growth: 7.60%
+ZIP: 14132, County: Niagara County, State: New York, Growth: 7.58%
+ZIP: 64491, County: Atchison County, State: Missouri, Growth: 7.58%
+ZIP: 07624, County: Bergen County, State: New Jersey, Growth: 7.56%
+ZIP: 13408, County: Madison County, State: New York, Growth: 7.56%
+ZIP: 43844, County: Coshocton County, State: Ohio, Growth: 7.55%
+ZIP: 54612, County: Trempealeau County, State: Wisconsin, Growth: 7.54%
+ZIP: 13365, County: Herkimer County, State: New York, Growth: 7.50%
+ZIP: 06103, County: Hartford County, State: Connecticut, Growth: 7.46%
+ZIP: 06103, County: Capitol Planning Region, State: Connecticut, Growth: 7.46%
+ZIP: 08201, County: Atlantic County, State: New Jersey, Growth: 7.46%
+ZIP: 62016, County: Greene County, State: Illinois, Growth: 7.44%
+ZIP: 13031, County: Onondaga County, State: New York, Growth: 7.43%
+ZIP: 12883, County: Essex County, State: New York, Growth: 7.43%
+ZIP: 75114, County: Kaufman County, State: Texas, Growth: 7.40%
+ZIP: 08310, County: Atlantic County, State: New Jersey, Growth: 7.39%
+ZIP: 03588, County: Coos County, State: New Hampshire, Growth: 7.39%
+ZIP: 75773, County: Wood County, State: Texas, Growth: 7.38%
+ZIP: 72007, County: Lonoke County, State: Arkansas, Growth: 7.36%
+ZIP: 56474, County: Cass County, State: Minnesota, Growth: 7.35%
+ZIP: 56474, County: Crow Wing County, State: Minnesota, Growth: 7.35%
+ZIP: 13452, County: Montgomery County, State: New York, Growth: 7.32%
+ZIP: 13452, County: Fulton County, State: New York, Growth: 7.32%
+ZIP: 12927, County: St. Lawrence County, State: New York, Growth: 7.31%
+ZIP: 08221, County: Atlantic County, State: New Jersey, Growth: 7.31%
+ZIP: 44842, County: Ashland County, State: Ohio, Growth: 7.30%
+ZIP: 44842, County: Knox County, State: Ohio, Growth: 7.30%
+ZIP: 03087, County: Rockingham County, State: New Hampshire, Growth: 7.30%
+ZIP: 04254, County: Androscoggin County, State: Maine, Growth: 7.28%
+ZIP: 13438, County: Oneida County, State: New York, Growth: 7.27%
+ZIP: 05032, County: Windsor County, State: Vermont, Growth: 7.25%
+ZIP: 56550, County: Norman County, State: Minnesota, Growth: 7.24%
+ZIP: 13317, County: Montgomery County, State: New York, Growth: 7.23%
+ZIP: 13317, County: Clarke County, State: Mississippi, Growth: 7.23%
+ZIP: 12538, County: Dutchess County, State: New York, Growth: 7.23%
+ZIP: 67025, County: Sedgwick County, State: Kansas, Growth: 7.23%
+ZIP: 03848, County: Rockingham County, State: New Hampshire, Growth: 7.20%
+ZIP: 03782, County: Sullivan County, State: New Hampshire, Growth: 7.19%
+ZIP: 03264, County: Grafton County, State: New Hampshire, Growth: 7.14%
+ZIP: 17049, County: Juniata County, State: Pennsylvania, Growth: 7.13%
+ZIP: 80644, County: Weld County, State: Colorado, Growth: 7.13%
+ZIP: 14739, County: Allegany County, State: New York, Growth: 7.11%
+ZIP: 03230, County: Merrimack County, State: New Hampshire, Growth: 7.11%
+ZIP: 72553, County: Independence County, State: Arkansas, Growth: 7.11%
+ZIP: 67869, County: Meade County, State: Kansas, Growth: 7.09%
+ZIP: 50421, County: Wright County, State: Iowa, Growth: 7.09%
+ZIP: 12828, County: Washington County, State: New York, Growth: 7.07%
+ZIP: 14040, County: Genesee County, State: New York, Growth: 7.07%
+ZIP: 08077, County: Burlington County, State: New Jersey, Growth: 7.06%
+ZIP: 08075, County: Burlington County, State: New Jersey, Growth: 7.06%
+ZIP: 03284, County: Sullivan County, State: New Hampshire, Growth: 7.05%
+ZIP: 17113, County: Dauphin County, State: Pennsylvania, Growth: 7.05%
+ZIP: 50033, County: Madison County, State: Iowa, Growth: 7.01%
+ZIP: 14869, County: Schuyler County, State: New York, Growth: 7.00%
+ZIP: 79788, County: Ward County, State: Texas, Growth: 7.00%
+ZIP: 80758, County: Yuma County, State: Colorado, Growth: 7.00%
+ZIP: 33154, County: Miami-Dade County, State: Florida, Growth: 6.95%
+ZIP: 06378, County: Southeastern Connecticut Planning Region, State: Connecticut, Growth: 6.94%
+ZIP: 06378, County: New London County, State: Connecticut, Growth: 6.94%
+ZIP: 13157, County: Oneida County, State: New York, Growth: 6.93%
+ZIP: 12967, County: St. Lawrence County, State: New York, Growth: 6.92%
+ZIP: 69145, County: Kimball County, State: Nebraska, Growth: 6.91%
+ZIP: 03256, County: Belknap County, State: New Hampshire, Growth: 6.90%
+ZIP: 55117, County: Ramsey County, State: Minnesota, Growth: 6.90%
+ZIP: 12777, County: Sullivan County, State: New York, Growth: 6.89%
+ZIP: 38730, County: Bolivar County, State: Mississippi, Growth: 6.88%
+ZIP: 03583, County: Coos County, State: New Hampshire, Growth: 6.87%
+ZIP: 19963, County: Kent County, State: Delaware, Growth: 6.84%
+ZIP: 14892, County: Tioga County, State: New York, Growth: 6.84%
+ZIP: 75644, County: Upshur County, State: Texas, Growth: 6.82%
+ZIP: 07022, County: Bergen County, State: New Jersey, Growth: 6.81%
+ZIP: 07407, County: Bergen County, State: New Jersey, Growth: 6.81%
+ZIP: 03785, County: Grafton County, State: New Hampshire, Growth: 6.81%
+ZIP: 35902, County: Etowah County, State: Alabama, Growth: 6.81%
+ZIP: 67578, County: Stafford County, State: Kansas, Growth: 6.80%
+ZIP: 55726, County: Carlton County, State: Minnesota, Growth: 6.74%
+ZIP: 73601, County: Custer County, State: Oklahoma, Growth: 6.72%
+ZIP: 03774, County: Grafton County, State: New Hampshire, Growth: 6.72%
+ZIP: 19530, County: Berks County, State: Pennsylvania, Growth: 6.71%
+ZIP: 17512, County: Lancaster County, State: Pennsylvania, Growth: 6.70%
+ZIP: 66010, County: Linn County, State: Kansas, Growth: 6.69%
+ZIP: 07093, County: Hudson County, State: New Jersey, Growth: 6.69%
+ZIP: 14108, County: Niagara County, State: New York, Growth: 6.67%
+ZIP: 16875, County: Centre County, State: Pennsylvania, Growth: 6.67%
+ZIP: 18508, County: Susquehanna County, State: Pennsylvania, Growth: 6.66%
+ZIP: 54474, County: Marathon County, State: Wisconsin, Growth: 6.66%
+ZIP: 18508, County: Lackawanna County, State: Pennsylvania, Growth: 6.66%
+ZIP: 18831, County: Bradford County, State: Pennsylvania, Growth: 6.63%
+ZIP: 13152, County: Onondaga County, State: New York, Growth: 6.62%
+ZIP: 14094, County: Niagara County, State: New York, Growth: 6.62%
+ZIP: 03285, County: Grafton County, State: New Hampshire, Growth: 6.62%
+ZIP: 13455, County: Oneida County, State: New York, Growth: 6.61%
+ZIP: 55356, County: Hennepin County, State: Minnesota, Growth: 6.60%
+ZIP: 01368, County: Worcester County, State: Massachusetts, Growth: 6.59%
+ZIP: 03857, County: Rockingham County, State: New Hampshire, Growth: 6.57%
+ZIP: 07632, County: Bergen County, State: New Jersey, Growth: 6.53%
+ZIP: 03818, County: Carroll County, State: New Hampshire, Growth: 6.52%
+ZIP: 03241, County: Grafton County, State: New Hampshire, Growth: 6.50%
+ZIP: 73460, County: Johnston County, State: Oklahoma, Growth: 6.50%
+ZIP: 45843, County: Hardin County, State: Ohio, Growth: 6.50%
+ZIP: 53516, County: Lafayette County, State: Wisconsin, Growth: 6.50%
+ZIP: 51579, County: Harrison County, State: Iowa, Growth: 6.48%
+ZIP: 15853, County: Elk County, State: Pennsylvania, Growth: 6.48%
+ZIP: 12834, County: Washington County, State: New York, Growth: 6.44%
+ZIP: 13069, County: Oswego County, State: New York, Growth: 6.44%
+ZIP: 03442, County: Hillsborough County, State: New Hampshire, Growth: 6.44%
+ZIP: 32332, County: Gadsden County, State: Florida, Growth: 6.44%
+ZIP: 01083, County: Worcester County, State: Massachusetts, Growth: 6.43%
+ZIP: 69129, County: Deuel County, State: Nebraska, Growth: 6.42%
+ZIP: 98276, County: Whatcom County, State: Washington, Growth: 6.41%
+ZIP: 33141, County: Miami-Dade County, State: Florida, Growth: 6.39%
+ZIP: 03873, County: Rockingham County, State: New Hampshire, Growth: 6.39%
+ZIP: 28092, County: Lincoln County, State: North Carolina, Growth: 6.39%
+ZIP: 12498, County: Ulster County, State: New York, Growth: 6.37%
+ZIP: 03878, County: Strafford County, State: New Hampshire, Growth: 6.36%
+ZIP: 16404, County: Crawford County, State: Pennsylvania, Growth: 6.36%
+ZIP: 03741, County: Grafton County, State: New Hampshire, Growth: 6.36%
+ZIP: 07024, County: Bergen County, State: New Jersey, Growth: 6.35%
+ZIP: 13490, County: Oneida County, State: New York, Growth: 6.35%
+ZIP: 13833, County: Broome County, State: New York, Growth: 6.34%
+ZIP: 24201, County: Bristol city, State: Virginia, Growth: 6.34%
+ZIP: 55731, County: St. Louis County, State: Minnesota, Growth: 6.32%
+ZIP: 83641, County: Canyon County, State: Idaho, Growth: 6.30%
+ZIP: 02452, County: Middlesex County, State: Massachusetts, Growth: 6.30%
+ZIP: 14775, County: Chautauqua County, State: New York, Growth: 6.29%
+ZIP: 60143, County: DuPage County, State: Illinois, Growth: 6.28%
+ZIP: 12084, County: Albany County, State: New York, Growth: 6.27%
+ZIP: 56521, County: Becker County, State: Minnesota, Growth: 6.27%
+ZIP: 42755, County: Grayson County, State: Kentucky, Growth: 6.26%
+ZIP: 73044, County: Logan County, State: Oklahoma, Growth: 6.26%
+ZIP: 01364, County: Franklin County, State: Massachusetts, Growth: 6.25%
+ZIP: 07652, County: Bergen County, State: New Jersey, Growth: 6.24%
+ZIP: 36863, County: Chambers County, State: Alabama, Growth: 6.24%
+ZIP: 13676, County: St. Lawrence County, State: New York, Growth: 6.23%
+ZIP: 55765, County: St. Louis County, State: Minnesota, Growth: 6.23%
+ZIP: 18446, County: Wyoming County, State: Pennsylvania, Growth: 6.23%
+ZIP: 51001, County: Plymouth County, State: Iowa, Growth: 6.23%
+ZIP: 39342, County: Lauderdale County, State: Mississippi, Growth: 6.23%
+ZIP: 13476, County: Oneida County, State: New York, Growth: 6.23%
+ZIP: 12197, County: Otsego County, State: New York, Growth: 6.23%
+ZIP: 73651, County: Kiowa County, State: Oklahoma, Growth: 6.23%
+ZIP: 13304, County: Oneida County, State: New York, Growth: 6.22%
+ZIP: 03835, County: Strafford County, State: New Hampshire, Growth: 6.19%
+ZIP: 12852, County: Essex County, State: New York, Growth: 6.19%
+ZIP: 14821, County: Steuben County, State: New York, Growth: 6.18%
+ZIP: 74346, County: Delaware County, State: Oklahoma, Growth: 6.18%
+ZIP: 18101, County: Lehigh County, State: Pennsylvania, Growth: 6.17%
+ZIP: 80504, County: Weld County, State: Colorado, Growth: 6.16%
+ZIP: 80504, County: Arapahoe County, State: Colorado, Growth: 6.16%
+ZIP: 63552, County: Macon County, State: Missouri, Growth: 6.14%
+ZIP: 80751, County: Logan County, State: Colorado, Growth: 6.12%
+ZIP: 80214, County: Jefferson County, State: Colorado, Growth: 6.10%
+ZIP: 58636, County: Dunn County, State: North Dakota, Growth: 6.09%
+ZIP: 16828, County: Centre County, State: Pennsylvania, Growth: 6.09%
+ZIP: 50050, County: Greene County, State: Iowa, Growth: 6.09%
+ZIP: 01082, County: Hampshire County, State: Massachusetts, Growth: 6.05%
+ZIP: 08402, County: Atlantic County, State: New Jersey, Growth: 6.04%
+ZIP: 03753, County: Sullivan County, State: New Hampshire, Growth: 6.04%
+ZIP: 61336, County: Putnam County, State: Illinois, Growth: 6.03%
+ZIP: 66507, County: Wabaunsee County, State: Kansas, Growth: 6.03%
+ZIP: 53504, County: Lafayette County, State: Wisconsin, Growth: 6.03%
+ZIP: 53403, County: Racine County, State: Wisconsin, Growth: 6.03%
+ZIP: 21911, County: Cecil County, State: Maryland, Growth: 6.03%
+ZIP: 35961, County: DeKalb County, State: Alabama, Growth: 6.03%
+ZIP: 61754, County: McLean County, State: Illinois, Growth: 6.03%
+ZIP: 30629, County: Madison County, State: Georgia, Growth: 6.03%
+ZIP: 17211, County: Bedford County, State: Pennsylvania, Growth: 6.03%
+ZIP: 72434, County: Lawrence County, State: Arkansas, Growth: 6.03%
+ZIP: 33851, County: Polk County, State: Florida, Growth: 6.01%
+ZIP: 13314, County: Madison County, State: New York, Growth: 6.01%
+ZIP: 82442, County: Washakie County, State: Wyoming, Growth: 6.00%
+ZIP: 52655, County: Des Moines County, State: Iowa, Growth: 6.00%
+ZIP: 05062, County: Windsor County, State: Vermont, Growth: 5.99%
+ZIP: 01010, County: Hampden County, State: Massachusetts, Growth: 5.98%
+ZIP: 08010, County: Burlington County, State: New Jersey, Growth: 5.97%
+ZIP: 29388, County: Spartanburg County, State: South Carolina, Growth: 5.97%
+ZIP: 15559, County: Bedford County, State: Pennsylvania, Growth: 5.96%
+ZIP: 13795, County: Broome County, State: New York, Growth: 5.96%
+ZIP: 51035, County: Cherokee County, State: Iowa, Growth: 5.96%
+ZIP: 04925, County: Somerset County, State: Maine, Growth: 5.95%
+ZIP: 65633, County: Stone County, State: Missouri, Growth: 5.94%
+ZIP: 61244, County: Rock Island County, State: Illinois, Growth: 5.94%
+ZIP: 30260, County: Clayton County, State: Georgia, Growth: 5.94%
+ZIP: 14876, County: Schuyler County, State: New York, Growth: 5.94%
+ZIP: 08319, County: Atlantic County, State: New Jersey, Growth: 5.91%
+ZIP: 84713, County: Beaver County, State: Utah, Growth: 5.91%
+ZIP: 80744, County: Sedgwick County, State: Colorado, Growth: 5.90%
+ZIP: 13786, County: Delaware County, State: New York, Growth: 5.89%
+ZIP: 72426, County: Mississippi County, State: Arkansas, Growth: 5.89%
+ZIP: 56085, County: Brown County, State: Minnesota, Growth: 5.89%
+ZIP: 13114, County: Oswego County, State: New York, Growth: 5.87%
+ZIP: 77964, County: Lavaca County, State: Texas, Growth: 5.86%
+ZIP: 01036, County: Hampden County, State: Massachusetts, Growth: 5.85%
+ZIP: 08035, County: Camden County, State: New Jersey, Growth: 5.81%
+ZIP: 50164, County: Guthrie County, State: Iowa, Growth: 5.81%
+ZIP: 18434, County: Lackawanna County, State: Pennsylvania, Growth: 5.81%
+ZIP: 16657, County: Huntingdon County, State: Pennsylvania, Growth: 5.80%
+ZIP: 71654, County: Desha County, State: Arkansas, Growth: 5.80%
+ZIP: 52625, County: Lee County, State: Iowa, Growth: 5.80%
+ZIP: 12789, County: Sullivan County, State: New York, Growth: 5.80%
+ZIP: 60470, County: LaSalle County, State: Illinois, Growth: 5.78%
+ZIP: 03043, County: Hillsborough County, State: New Hampshire, Growth: 5.77%
+ZIP: 20902, County: Montgomery County, State: Maryland, Growth: 5.77%
+ZIP: 16623, County: Huntingdon County, State: Pennsylvania, Growth: 5.77%
+ZIP: 12953, County: Franklin County, State: New York, Growth: 5.77%
+ZIP: 05732, County: Rutland County, State: Vermont, Growth: 5.76%
+ZIP: 07621, County: Bergen County, State: New Jersey, Growth: 5.75%
+ZIP: 16729, County: McKean County, State: Pennsylvania, Growth: 5.72%
+ZIP: 03773, County: Sullivan County, State: New Hampshire, Growth: 5.71%
+ZIP: 56757, County: Marshall County, State: Minnesota, Growth: 5.71%
+ZIP: 07631, County: Bergen County, State: New Jersey, Growth: 5.70%
+ZIP: 98824, County: Grant County, State: Washington, Growth: 5.70%
+ZIP: 08049, County: Camden County, State: New Jersey, Growth: 5.69%
+ZIP: 54624, County: Vernon County, State: Wisconsin, Growth: 5.69%
+ZIP: 16636, County: Cambria County, State: Pennsylvania, Growth: 5.69%
+ZIP: 51521, County: Pottawattamie County, State: Iowa, Growth: 5.69%
+ZIP: 35470, County: Sumter County, State: Alabama, Growth: 5.69%
+ZIP: 58008, County: Richland County, State: North Dakota, Growth: 5.69%
+ZIP: 50624, County: Grundy County, State: Iowa, Growth: 5.69%
+ZIP: 67663, County: Rooks County, State: Kansas, Growth: 5.69%
+ZIP: 13141, County: Cortland County, State: New York, Growth: 5.69%
+ZIP: 94062, County: San Mateo County, State: California, Growth: 5.68%
+ZIP: 37892, County: Scott County, State: Tennessee, Growth: 5.67%
+ZIP: 58645, County: Billings County, State: North Dakota, Growth: 5.66%
+ZIP: 83123, County: Lincoln County, State: Wyoming, Growth: 5.66%
+ZIP: 49127, County: Berrien County, State: Michigan, Growth: 5.66%
+ZIP: 04096, County: Cumberland County, State: Maine, Growth: 5.66%
+ZIP: 03595, County: Coos County, State: New Hampshire, Growth: 5.66%
+ZIP: 12845, County: Warren County, State: New York, Growth: 5.66%
+ZIP: 03585, County: Grafton County, State: New Hampshire, Growth: 5.65%
+ZIP: 73038, County: Caddo County, State: Oklahoma, Growth: 5.65%
+ZIP: 84107, County: Salt Lake County, State: Utah, Growth: 5.62%
+ZIP: 03592, County: Coos County, State: New Hampshire, Growth: 5.62%
+ZIP: 18812, County: Susquehanna County, State: Pennsylvania, Growth: 5.61%
+ZIP: 03079, County: Rockingham County, State: New Hampshire, Growth: 5.61%
+ZIP: 01095, County: Hampden County, State: Massachusetts, Growth: 5.60%
+ZIP: 03263, County: Merrimack County, State: New Hampshire, Growth: 5.60%
+ZIP: 13617, County: St. Lawrence County, State: New York, Growth: 5.60%
+ZIP: 01070, County: Hampshire County, State: Massachusetts, Growth: 5.60%
+ZIP: 03743, County: Sullivan County, State: New Hampshire, Growth: 5.59%
+ZIP: 72457, County: Lawrence County, State: Arkansas, Growth: 5.59%
+ZIP: 08054, County: Burlington County, State: New Jersey, Growth: 5.57%
+ZIP: 56385, County: Pope County, State: Minnesota, Growth: 5.56%
+ZIP: 05033, County: Orange County, State: Vermont, Growth: 5.53%
+ZIP: 50210, County: Warren County, State: Iowa, Growth: 5.53%
+ZIP: 05152, County: Bennington County, State: Vermont, Growth: 5.53%
+ZIP: 03598, County: Coos County, State: New Hampshire, Growth: 5.53%
+ZIP: 24153, County: Salem city, State: Virginia, Growth: 5.52%
+ZIP: 51601, County: Page County, State: Iowa, Growth: 5.52%
+ZIP: 07642, County: Bergen County, State: New Jersey, Growth: 5.51%
+ZIP: 14891, County: Schuyler County, State: New York, Growth: 5.51%
+ZIP: 03221, County: Merrimack County, State: New Hampshire, Growth: 5.48%
+ZIP: 08043, County: Camden County, State: New Jersey, Growth: 5.47%
+ZIP: 50849, County: Adair County, State: Iowa, Growth: 5.46%
+ZIP: 46936, County: Howard County, State: Indiana, Growth: 5.45%
+ZIP: 14489, County: Wayne County, State: New York, Growth: 5.45%
+ZIP: 12745, County: Sullivan County, State: New York, Growth: 5.45%
+ZIP: 03771, County: Grafton County, State: New Hampshire, Growth: 5.45%
+ZIP: 49947, County: Gogebic County, State: Michigan, Growth: 5.45%
+ZIP: 17941, County: Northumberland County, State: Pennsylvania, Growth: 5.45%
+ZIP: 17941, County: Schuylkill County, State: Pennsylvania, Growth: 5.45%
+ZIP: 01375, County: Franklin County, State: Massachusetts, Growth: 5.45%
+ZIP: 13684, County: St. Lawrence County, State: New York, Growth: 5.45%
+ZIP: 14820, County: Steuben County, State: New York, Growth: 5.44%
+ZIP: 63390, County: Warren County, State: Missouri, Growth: 5.44%
+ZIP: 18333, County: Monroe County, State: Pennsylvania, Growth: 5.42%
+ZIP: 14884, County: Allegany County, State: New York, Growth: 5.42%
+ZIP: 80547, County: Larimer County, State: Colorado, Growth: 5.41%
+ZIP: 56354, County: Douglas County, State: Minnesota, Growth: 5.41%
+ZIP: 03215, County: Grafton County, State: New Hampshire, Growth: 5.39%
+ZIP: 79118, County: Randall County, State: Texas, Growth: 5.38%
+ZIP: 13673, County: Jefferson County, State: New York, Growth: 5.38%
+ZIP: 06254, County: New London County, State: Connecticut, Growth: 5.37%
+ZIP: 06254, County: Southeastern Connecticut Planning Region, State: Connecticut, Growth: 5.37%
+ZIP: 36340, County: Geneva County, State: Alabama, Growth: 5.36%
+ZIP: 12981, County: Clinton County, State: New York, Growth: 5.36%
+ZIP: 84751, County: Beaver County, State: Utah, Growth: 5.34%
+ZIP: 03226, County: Belknap County, State: New Hampshire, Growth: 5.33%
+ZIP: 56110, County: Nobles County, State: Minnesota, Growth: 5.31%
+ZIP: 05874, County: Orleans County, State: Vermont, Growth: 5.31%
+ZIP: 01253, County: Berkshire County, State: Massachusetts, Growth: 5.31%
+ZIP: 01360, County: Franklin County, State: Massachusetts, Growth: 5.31%
+ZIP: 64840, County: Newton County, State: Missouri, Growth: 5.30%
+ZIP: 01266, County: Berkshire County, State: Massachusetts, Growth: 5.29%
+ZIP: 01270, County: Berkshire County, State: Massachusetts, Growth: 5.29%
+ZIP: 72411, County: Craighead County, State: Arkansas, Growth: 5.29%
+ZIP: 14092, County: Niagara County, State: New York, Growth: 5.29%
+ZIP: 74437, County: Okmulgee County, State: Oklahoma, Growth: 5.28%
+ZIP: 91763, County: San Bernardino County, State: California, Growth: 5.28%
+ZIP: 73014, County: Canadian County, State: Oklahoma, Growth: 5.28%
+ZIP: 52161, County: Winneshiek County, State: Iowa, Growth: 5.28%
+ZIP: 07606, County: Bergen County, State: New Jersey, Growth: 5.28%
+ZIP: 64856, County: McDonald County, State: Missouri, Growth: 5.27%
+ZIP: 08757, County: Ocean County, State: New Jersey, Growth: 5.27%
+ZIP: 82212, County: Goshen County, State: Wyoming, Growth: 5.25%
+ZIP: 16142, County: Lawrence County, State: Pennsylvania, Growth: 5.23%
+ZIP: 16142, County: Mercer County, State: Pennsylvania, Growth: 5.23%
+ZIP: 93436, County: Santa Barbara County, State: California, Growth: 5.23%
+ZIP: 08016, County: Burlington County, State: New Jersey, Growth: 5.21%
+ZIP: 50225, County: Marion County, State: Iowa, Growth: 5.21%
+ZIP: 60420, County: Livingston County, State: Illinois, Growth: 5.20%
+ZIP: 04958, County: Somerset County, State: Maine, Growth: 5.19%
+ZIP: 74044, County: Creek County, State: Oklahoma, Growth: 5.19%
+ZIP: 14551, County: Wayne County, State: New York, Growth: 5.19%
+ZIP: 36477, County: Geneva County, State: Alabama, Growth: 5.18%
+ZIP: 12449, County: Ulster County, State: New York, Growth: 5.18%
+ZIP: 94806, County: Contra Costa County, State: California, Growth: 5.18%
+ZIP: 82401, County: Washakie County, State: Wyoming, Growth: 5.18%
+ZIP: 67002, County: Butler County, State: Kansas, Growth: 5.17%
+ZIP: 03229, County: Merrimack County, State: New Hampshire, Growth: 5.17%
+ZIP: 50574, County: Pocahontas County, State: Iowa, Growth: 5.17%
+ZIP: 13156, County: Cayuga County, State: New York, Growth: 5.17%
+ZIP: 12143, County: Albany County, State: New York, Growth: 5.16%
+ZIP: 68305, County: Nemaha County, State: Nebraska, Growth: 5.15%
+ZIP: 79563, County: Taylor County, State: Texas, Growth: 5.15%
+ZIP: 15856, County: Clearfield County, State: Pennsylvania, Growth: 5.15%
+ZIP: 50675, County: Tama County, State: Iowa, Growth: 5.15%
+ZIP: 56037, County: Blue Earth County, State: Minnesota, Growth: 5.15%
+ZIP: 03874, County: Rockingham County, State: New Hampshire, Growth: 5.13%
+ZIP: 12989, County: Franklin County, State: New York, Growth: 5.13%
+ZIP: 91101, County: Los Angeles County, State: California, Growth: 5.12%
+ZIP: 07601, County: Bergen County, State: New Jersey, Growth: 5.11%
+ZIP: 71852, County: Howard County, State: Arkansas, Growth: 5.11%
+ZIP: 13812, County: Tioga County, State: New York, Growth: 5.11%
+ZIP: 60447, County: Grundy County, State: Illinois, Growth: 5.11%
+ZIP: 80420, County: Park County, State: Colorado, Growth: 5.10%
+ZIP: 07072, County: Bergen County, State: New Jersey, Growth: 5.10%
+ZIP: 08270, County: Cumberland County, State: New Jersey, Growth: 5.09%
+ZIP: 08270, County: Cape May County, State: New Jersey, Growth: 5.09%
+ZIP: 08243, County: Cape May County, State: New Jersey, Growth: 5.09%
+ZIP: 76691, County: McLennan County, State: Texas, Growth: 5.08%
+ZIP: 03584, County: Coos County, State: New Hampshire, Growth: 5.07%
+ZIP: 72525, County: Sharp County, State: Arkansas, Growth: 5.07%
+ZIP: 71671, County: Bradley County, State: Arkansas, Growth: 5.07%
+ZIP: 83205, County: Bannock County, State: Idaho, Growth: 5.05%
+ZIP: 12839, County: Washington County, State: New York, Growth: 5.04%
+ZIP: 13135, County: Oswego County, State: New York, Growth: 5.04%
+ZIP: 07020, County: Bergen County, State: New Jersey, Growth: 5.03%
+ZIP: 12847, County: Hamilton County, State: New York, Growth: 5.02%
+ZIP: 16674, County: Huntingdon County, State: Pennsylvania, Growth: 5.01%
+ZIP: 58069, County: Sargent County, State: North Dakota, Growth: 5.01%
+ZIP: 50658, County: Chickasaw County, State: Iowa, Growth: 5.01%
+ZIP: 13668, County: St. Lawrence County, State: New York, Growth: 5.01%
+ZIP: 72127, County: Conway County, State: Arkansas, Growth: 5.01%
+ZIP: 07630, County: Bergen County, State: New Jersey, Growth: 5.01%
+ZIP: 83555, County: Lewis County, State: Idaho, Growth: 5.01%
+ZIP: 18829, County: Bradford County, State: Pennsylvania, Growth: 5.01%
+ZIP: 66092, County: Franklin County, State: Kansas, Growth: 5.01%
+ZIP: 87410, County: San Juan County, State: New Mexico, Growth: 5.00%
+ZIP: 64725, County: Cass County, State: Missouri, Growth: 5.00%
+ZIP: 33143, County: Miami-Dade County, State: Florida, Growth: 4.99%
+ZIP: 06016, County: Capitol Planning Region, State: Connecticut, Growth: 4.99%
+ZIP: 06016, County: Hartford County, State: Connecticut, Growth: 4.99%
+ZIP: 08341, County: Atlantic County, State: New Jersey, Growth: 4.99%
+ZIP: 12928, County: Essex County, State: New York, Growth: 4.99%
+ZIP: 13680, County: St. Lawrence County, State: New York, Growth: 4.99%
+ZIP: 03745, County: Sullivan County, State: New Hampshire, Growth: 4.98%
+ZIP: 55127, County: Ramsey County, State: Minnesota, Growth: 4.97%
+ZIP: 46346, County: LaPorte County, State: Indiana, Growth: 4.97%
+ZIP: 25571, County: Lincoln County, State: West Virginia, Growth: 4.96%
+ZIP: 07026, County: Bergen County, State: New Jersey, Growth: 4.94%
+ZIP: 13797, County: Broome County, State: New York, Growth: 4.94%
+ZIP: 08203, County: Atlantic County, State: New Jersey, Growth: 4.92%
+ZIP: 12589, County: Ulster County, State: New York, Growth: 4.92%
+ZIP: 24416, County: Buena Vista city, State: Virginia, Growth: 4.91%
+ZIP: 04768, County: Aroostook County, State: Maine, Growth: 4.88%
+ZIP: 06334, County: New London County, State: Connecticut, Growth: 4.88%
+ZIP: 08089, County: Camden County, State: New Jersey, Growth: 4.88%
+ZIP: 58433, County: LaMoure County, State: North Dakota, Growth: 4.88%
+ZIP: 52175, County: Fayette County, State: Iowa, Growth: 4.88%
+ZIP: 13071, County: Cayuga County, State: New York, Growth: 4.88%
+ZIP: 68731, County: Dakota County, State: Nebraska, Growth: 4.88%
+ZIP: 45896, County: Auglaize County, State: Ohio, Growth: 4.88%
+ZIP: 63437, County: Shelby County, State: Missouri, Growth: 4.88%
+ZIP: 14809, County: Steuben County, State: New York, Growth: 4.88%
+ZIP: 06334, County: Southeastern Connecticut Planning Region, State: Connecticut, Growth: 4.88%
+ZIP: 13471, County: Oneida County, State: New York, Growth: 4.88%
+ZIP: 19534, County: Berks County, State: Pennsylvania, Growth: 4.88%
+ZIP: 14787, County: Chautauqua County, State: New York, Growth: 4.88%
+ZIP: 07641, County: Bergen County, State: New Jersey, Growth: 4.87%
+ZIP: 27886, County: Edgecombe County, State: North Carolina, Growth: 4.85%
+ZIP: 04634, County: Hancock County, State: Maine, Growth: 4.85%
+ZIP: 78358, County: Aransas County, State: Texas, Growth: 4.85%
+ZIP: 07075, County: Bergen County, State: New Jersey, Growth: 4.84%
+ZIP: 14807, County: Steuben County, State: New York, Growth: 4.84%
+ZIP: 29648, County: Greenwood County, State: South Carolina, Growth: 4.84%
+ZIP: 50216, County: Guthrie County, State: Iowa, Growth: 4.84%
+ZIP: 12025, County: Fulton County, State: New York, Growth: 4.83%
+ZIP: 57745, County: Pennington County, State: South Dakota, Growth: 4.82%
+ZIP: 12428, County: Ulster County, State: New York, Growth: 4.82%
+ZIP: 71232, County: Richland Parish, State: Louisiana, Growth: 4.80%
+ZIP: 03811, County: Rockingham County, State: New Hampshire, Growth: 4.80%
+ZIP: 13775, County: Delaware County, State: New York, Growth: 4.80%
+ZIP: 38756, County: Washington County, State: Mississippi, Growth: 4.80%
+ZIP: 12997, County: Essex County, State: New York, Growth: 4.80%
+ZIP: 08628, County: Mercer County, State: New Jersey, Growth: 4.79%
+ZIP: 18352, County: Monroe County, State: Pennsylvania, Growth: 4.78%
+ZIP: 38049, County: Tipton County, State: Tennessee, Growth: 4.77%
+ZIP: 12108, County: Hamilton County, State: New York, Growth: 4.77%
+ZIP: 59635, County: Lewis and Clark County, State: Montana, Growth: 4.77%
+ZIP: 07675, County: Bergen County, State: New Jersey, Growth: 4.76%
+ZIP: 04971, County: Somerset County, State: Maine, Growth: 4.76%
+ZIP: 07430, County: Bergen County, State: New Jersey, Growth: 4.75%
+ZIP: 07436, County: Bergen County, State: New Jersey, Growth: 4.75%
+ZIP: 14873, County: Steuben County, State: New York, Growth: 4.75%
+ZIP: 12413, County: Greene County, State: New York, Growth: 4.75%
+ZIP: 54646, County: Juneau County, State: Wisconsin, Growth: 4.74%
+ZIP: 07401, County: Bergen County, State: New Jersey, Growth: 4.73%
+ZIP: 52649, County: Henry County, State: Iowa, Growth: 4.72%
+ZIP: 76458, County: Jack County, State: Texas, Growth: 4.72%
+ZIP: 75474, County: Hunt County, State: Texas, Growth: 4.72%
+ZIP: 06418, County: New Haven County, State: Connecticut, Growth: 4.72%
+ZIP: 06418, County: Naugatuck Valley Planning Region, State: Connecticut, Growth: 4.72%
+ZIP: 14726, County: Cattaraugus County, State: New York, Growth: 4.72%
+ZIP: 84633, County: Utah County, State: Utah, Growth: 4.72%
+ZIP: 16841, County: Centre County, State: Pennsylvania, Growth: 4.71%
+ZIP: 14568, County: Wayne County, State: New York, Growth: 4.71%
+ZIP: 52218, County: Linn County, State: Iowa, Growth: 4.71%
+ZIP: 07603, County: Bergen County, State: New Jersey, Growth: 4.69%
+ZIP: 05060, County: Orange County, State: Vermont, Growth: 4.68%
+ZIP: 08224, County: Burlington County, State: New Jersey, Growth: 4.68%
+ZIP: 16686, County: Blair County, State: Pennsylvania, Growth: 4.67%
+ZIP: 16686, County: Huntingdon County, State: Pennsylvania, Growth: 4.67%
+ZIP: 98922, County: Kittitas County, State: Washington, Growth: 4.67%
+ZIP: 07660, County: Bergen County, State: New Jersey, Growth: 4.67%
+ZIP: 12601, County: Dutchess County, State: New York, Growth: 4.67%
+ZIP: 12548, County: Ulster County, State: New York, Growth: 4.67%
+ZIP: 56343, County: Stevens County, State: Minnesota, Growth: 4.67%
+ZIP: 51249, County: Osceola County, State: Iowa, Growth: 4.66%
+ZIP: 56024, County: Blue Earth County, State: Minnesota, Growth: 4.65%
+ZIP: 62549, County: Macon County, State: Illinois, Growth: 4.64%
+ZIP: 07057, County: Bergen County, State: New Jersey, Growth: 4.63%
+ZIP: 07656, County: Bergen County, State: New Jersey, Growth: 4.63%
+ZIP: 10567, County: Westchester County, State: New York, Growth: 4.63%
+ZIP: 13212, County: Onondaga County, State: New York, Growth: 4.62%
+ZIP: 04333, County: Maine Unorganized Territory, State: Maine, Growth: 4.61%
+ZIP: 07936, County: Morris County, State: New Jersey, Growth: 4.61%
+ZIP: 13739, County: Delaware County, State: New York, Growth: 4.61%
+ZIP: 05903, County: Essex County, State: Vermont, Growth: 4.61%
+ZIP: 05840, County: Essex County, State: Vermont, Growth: 4.61%
+ZIP: 05658, County: Washington County, State: Vermont, Growth: 4.61%
+ZIP: 67952, County: Stevens County, State: Kansas, Growth: 4.61%
+ZIP: 52337, County: Cedar County, State: Iowa, Growth: 4.61%
+ZIP: 55786, County: Itasca County, State: Minnesota, Growth: 4.61%
+ZIP: 15337, County: Greene County, State: Pennsylvania, Growth: 4.61%
+ZIP: 52315, County: Benton County, State: Iowa, Growth: 4.61%
+ZIP: 57365, County: Lyman County, State: South Dakota, Growth: 4.61%
+ZIP: 05476, County: Franklin County, State: Vermont, Growth: 4.61%
+ZIP: 14516, County: Wayne County, State: New York, Growth: 4.61%
+ZIP: 51034, County: Monona County, State: Iowa, Growth: 4.61%
+ZIP: 13146, County: Wayne County, State: New York, Growth: 4.61%
+ZIP: 14823, County: Allegany County, State: New York, Growth: 4.61%
+ZIP: 14823, County: Steuben County, State: New York, Growth: 4.61%
+ZIP: 14304, County: Niagara County, State: New York, Growth: 4.61%
+ZIP: 51646, County: Taylor County, State: Iowa, Growth: 4.61%
+ZIP: 15550, County: Bedford County, State: Pennsylvania, Growth: 4.61%
+ZIP: 04734, County: Aroostook County, State: Maine, Growth: 4.61%
+ZIP: 50517, County: Kossuth County, State: Iowa, Growth: 4.61%
+ZIP: 25601, County: Logan County, State: West Virginia, Growth: 4.61%
+ZIP: 17952, County: Schuylkill County, State: Pennsylvania, Growth: 4.61%
+ZIP: 17017, County: Northumberland County, State: Pennsylvania, Growth: 4.61%
+ZIP: 91945, County: San Diego County, State: California, Growth: 4.61%
+ZIP: 01331, County: Worcester County, State: Massachusetts, Growth: 4.60%
+ZIP: 03262, County: Grafton County, State: New Hampshire, Growth: 4.59%
+ZIP: 16617, County: Blair County, State: Pennsylvania, Growth: 4.59%
+ZIP: 68818, County: Hamilton County, State: Nebraska, Growth: 4.59%
+ZIP: 76265, County: Montague County, State: Texas, Growth: 4.58%
+ZIP: 79360, County: Gaines County, State: Texas, Growth: 4.57%
+ZIP: 07452, County: Bergen County, State: New Jersey, Growth: 4.57%
+ZIP: 08241, County: Atlantic County, State: New Jersey, Growth: 4.56%
+ZIP: 07446, County: Bergen County, State: New Jersey, Growth: 4.56%
+ZIP: 06111, County: Hartford County, State: Connecticut, Growth: 4.56%
+ZIP: 06111, County: Capitol Planning Region, State: Connecticut, Growth: 4.56%
+ZIP: 71822, County: Little River County, State: Arkansas, Growth: 4.55%
+ZIP: 14433, County: Wayne County, State: New York, Growth: 4.54%
+ZIP: 78213, County: Bexar County, State: Texas, Growth: 4.54%
+ZIP: 65065, County: Camden County, State: Missouri, Growth: 4.54%
+ZIP: 04069, County: Cumberland County, State: Maine, Growth: 4.53%
+ZIP: 03467, County: Cheshire County, State: New Hampshire, Growth: 4.53%
+ZIP: 61753, County: McLean County, State: Illinois, Growth: 4.53%
+ZIP: 59072, County: Musselshell County, State: Montana, Growth: 4.53%
+ZIP: 08401, County: Atlantic County, State: New Jersey, Growth: 4.53%
+ZIP: 14901, County: Chemung County, State: New York, Growth: 4.52%
+ZIP: 81235, County: Hinsdale County, State: Colorado, Growth: 4.51%
+ZIP: 83252, County: Oneida County, State: Idaho, Growth: 4.50%
+ZIP: 12926, County: Franklin County, State: New York, Growth: 4.49%
+ZIP: 03287, County: Merrimack County, State: New Hampshire, Growth: 4.49%
+ZIP: 12528, County: Ulster County, State: New York, Growth: 4.48%
+ZIP: 08244, County: Atlantic County, State: New Jersey, Growth: 4.48%
+ZIP: 46300, County: Porter County, State: Indiana, Growth: 4.48%
+ZIP: 56128, County: Pipestone County, State: Minnesota, Growth: 4.48%
+ZIP: 84050, County: Morgan County, State: Utah, Growth: 4.47%
+ZIP: 13329, County: Herkimer County, State: New York, Growth: 4.47%
+ZIP: 56118, County: Cottonwood County, State: Minnesota, Growth: 4.47%
+ZIP: 67039, County: Butler County, State: Kansas, Growth: 4.47%
+ZIP: 06787, County: Naugatuck Valley Planning Region, State: Connecticut, Growth: 4.47%
+ZIP: 56762, County: Marshall County, State: Minnesota, Growth: 4.47%
+ZIP: 73663, County: Dewey County, State: Oklahoma, Growth: 4.47%
+ZIP: 70438, County: Washington Parish, State: Louisiana, Growth: 4.47%
+ZIP: 35622, County: Morgan County, State: Alabama, Growth: 4.47%
+ZIP: 73121, County: Oklahoma County, State: Oklahoma, Growth: 4.47%
+ZIP: 38922, County: Yalobusha County, State: Mississippi, Growth: 4.47%
+ZIP: 35077, County: Cullman County, State: Alabama, Growth: 4.47%
+ZIP: 71433, County: Rapides Parish, State: Louisiana, Growth: 4.47%
+ZIP: 79323, County: Yoakum County, State: Texas, Growth: 4.47%
+ZIP: 06787, County: Litchfield County, State: Connecticut, Growth: 4.47%
+ZIP: 17748, County: Clinton County, State: Pennsylvania, Growth: 4.47%
+ZIP: 16153, County: Mercer County, State: Pennsylvania, Growth: 4.47%
+ZIP: 71801, County: Hempstead County, State: Arkansas, Growth: 4.47%
+ZIP: 01255, County: Berkshire County, State: Massachusetts, Growth: 4.47%
+ZIP: 03840, County: Rockingham County, State: New Hampshire, Growth: 4.46%
+ZIP: 84309, County: Box Elder County, State: Utah, Growth: 4.45%
+ZIP: 18410, County: Lackawanna County, State: Pennsylvania, Growth: 4.45%
+ZIP: 53809, County: Grant County, State: Wisconsin, Growth: 4.44%
+ZIP: 66102, County: Wyandotte County, State: Kansas, Growth: 4.44%
+ZIP: 13820, County: Otsego County, State: New York, Growth: 4.44%
+ZIP: 81082, County: Las Animas County, State: Colorado, Growth: 4.44%
+ZIP: 83835, County: Kootenai County, State: Idaho, Growth: 4.43%
+ZIP: 06069, County: Litchfield County, State: Connecticut, Growth: 4.43%
+ZIP: 06069, County: Northwest Hills Planning Region, State: Connecticut, Growth: 4.43%
+ZIP: 07676, County: Burlington County, State: New Jersey, Growth: 4.42%
+ZIP: 03032, County: Rockingham County, State: New Hampshire, Growth: 4.41%
+ZIP: 08060, County: Burlington County, State: New Jersey, Growth: 4.41%
+ZIP: 66002, County: Atchison County, State: Kansas, Growth: 4.41%
+ZIP: 08332, County: Cumberland County, State: New Jersey, Growth: 4.41%
+ZIP: 66845, County: Chase County, State: Kansas, Growth: 4.41%
+ZIP: 03823, County: Strafford County, State: New Hampshire, Growth: 4.41%
+ZIP: 01247, County: Berkshire County, State: Massachusetts, Growth: 4.41%
+ZIP: 73662, County: Beckham County, State: Oklahoma, Growth: 4.40%
+ZIP: 16133, County: Mercer County, State: Pennsylvania, Growth: 4.40%
+ZIP: 81089, County: Huerfano County, State: Colorado, Growth: 4.40%
+ZIP: 55733, County: Carlton County, State: Minnesota, Growth: 4.40%
+ZIP: 54475, County: Wood County, State: Wisconsin, Growth: 4.39%
+ZIP: 45863, County: Van Wert County, State: Ohio, Growth: 4.39%
+ZIP: 59457, County: Fergus County, State: Montana, Growth: 4.39%
+ZIP: 13862, County: Broome County, State: New York, Growth: 4.38%
+ZIP: 50049, County: Lucas County, State: Iowa, Growth: 4.37%
+ZIP: 67735, County: Sherman County, State: Kansas, Growth: 4.36%
+ZIP: 83213, County: Butte County, State: Idaho, Growth: 4.36%
+ZIP: 04106, County: Cumberland County, State: Maine, Growth: 4.36%
+ZIP: 80107, County: Elbert County, State: Colorado, Growth: 4.36%
+ZIP: 93561, County: Kern County, State: California, Growth: 4.35%
+ZIP: 53586, County: Lafayette County, State: Wisconsin, Growth: 4.35%
+ZIP: 49076, County: Calhoun County, State: Michigan, Growth: 4.35%
+ZIP: 84729, County: Kane County, State: Utah, Growth: 4.35%
+ZIP: 12544, County: Columbia County, State: New York, Growth: 4.35%
+ZIP: 13734, County: Tioga County, State: New York, Growth: 4.35%
+ZIP: 75142, County: Kaufman County, State: Texas, Growth: 4.34%
+ZIP: 12173, County: Columbia County, State: New York, Growth: 4.34%
+ZIP: 13502, County: Herkimer County, State: New York, Growth: 4.34%
+ZIP: 18452, County: Lackawanna County, State: Pennsylvania, Growth: 4.34%
+ZIP: 19506, County: Berks County, State: Pennsylvania, Growth: 4.34%
+ZIP: 13502, County: Oneida County, State: New York, Growth: 4.34%
+ZIP: 52347, County: Iowa County, State: Iowa, Growth: 4.34%
+ZIP: 05355, County: Windham County, State: Vermont, Growth: 4.34%
+ZIP: 13782, County: Delaware County, State: New York, Growth: 4.34%
+ZIP: 80728, County: Logan County, State: Colorado, Growth: 4.33%
+ZIP: 13143, County: Cayuga County, State: New York, Growth: 4.33%
+ZIP: 15533, County: Bedford County, State: Pennsylvania, Growth: 4.33%
+ZIP: 15533, County: Fulton County, State: Pennsylvania, Growth: 4.33%
+ZIP: 60416, County: Grundy County, State: Illinois, Growth: 4.32%
+ZIP: 36461, County: Monroe County, State: Alabama, Growth: 4.32%
+ZIP: 13322, County: Oneida County, State: New York, Growth: 4.32%
+ZIP: 13322, County: Herkimer County, State: New York, Growth: 4.32%
+ZIP: 07070, County: Bergen County, State: New Jersey, Growth: 4.31%
+ZIP: 16403, County: Crawford County, State: Pennsylvania, Growth: 4.30%
+ZIP: 18334, County: Monroe County, State: Pennsylvania, Growth: 4.30%
+ZIP: 83619, County: Payette County, State: Idaho, Growth: 4.30%
+ZIP: 07662, County: Bergen County, State: New Jersey, Growth: 4.30%
+ZIP: 80723, County: Morgan County, State: Colorado, Growth: 4.30%
+ZIP: 76384, County: Wilbarger County, State: Texas, Growth: 4.30%
+ZIP: 07650, County: Bergen County, State: New Jersey, Growth: 4.29%
+ZIP: 26651, County: Nicholas County, State: West Virginia, Growth: 4.29%
+ZIP: 84106, County: Salt Lake County, State: Utah, Growth: 4.29%
+ZIP: 03885, County: Rockingham County, State: New Hampshire, Growth: 4.29%
+ZIP: 56244, County: Stevens County, State: Minnesota, Growth: 4.28%
+ZIP: 65655, County: Ozark County, State: Missouri, Growth: 4.28%
+ZIP: 21673, County: Talbot County, State: Maryland, Growth: 4.28%
+ZIP: 07626, County: Bergen County, State: New Jersey, Growth: 4.28%
+ZIP: 52728, County: Scott County, State: Iowa, Growth: 4.27%
+ZIP: 01254, County: Berkshire County, State: Massachusetts, Growth: 4.27%
+ZIP: 51060, County: Monona County, State: Iowa, Growth: 4.27%
+ZIP: 08022, County: Burlington County, State: New Jersey, Growth: 4.26%
+ZIP: 07648, County: Bergen County, State: New Jersey, Growth: 4.26%
+ZIP: 38040, County: Lauderdale County, State: Tennessee, Growth: 4.26%
+ZIP: 53805, County: Crawford County, State: Wisconsin, Growth: 4.26%
+ZIP: 53805, County: Grant County, State: Wisconsin, Growth: 4.26%
+ZIP: 76849, County: Kimble County, State: Texas, Growth: 4.24%
+ZIP: 84639, County: Juab County, State: Utah, Growth: 4.23%
+ZIP: 03858, County: Rockingham County, State: New Hampshire, Growth: 4.23%
+ZIP: 95367, County: Stanislaus County, State: California, Growth: 4.23%
+ZIP: 72181, County: Faulkner County, State: Arkansas, Growth: 4.21%
+ZIP: 74066, County: Creek County, State: Oklahoma, Growth: 4.21%
+ZIP: 12072, County: Montgomery County, State: New York, Growth: 4.21%
+ZIP: 54005, County: Polk County, State: Wisconsin, Growth: 4.21%
+ZIP: 04410, County: Penobscot County, State: Maine, Growth: 4.21%
+ZIP: 60561, County: DuPage County, State: Illinois, Growth: 4.21%
+ZIP: 73080, County: McClain County, State: Oklahoma, Growth: 4.21%
+ZIP: 14482, County: Genesee County, State: New York, Growth: 4.20%
+ZIP: 74432, County: Pittsburg County, State: Oklahoma, Growth: 4.20%
+ZIP: 74538, County: Coal County, State: Oklahoma, Growth: 4.20%
+ZIP: 83654, County: Adams County, State: Idaho, Growth: 4.19%
+ZIP: 95536, County: Humboldt County, State: California, Growth: 4.19%
+ZIP: 14101, County: Cattaraugus County, State: New York, Growth: 4.18%
+ZIP: 07657, County: Bergen County, State: New Jersey, Growth: 4.18%
+ZIP: 16673, County: Blair County, State: Pennsylvania, Growth: 4.18%
+ZIP: 65066, County: Gasconade County, State: Missouri, Growth: 4.18%
+ZIP: 03266, County: Grafton County, State: New Hampshire, Growth: 4.18%
+ZIP: 60474, County: Grundy County, State: Illinois, Growth: 4.18%
+ZIP: 21654, County: Talbot County, State: Maryland, Growth: 4.18%
+ZIP: 08031, County: Camden County, State: New Jersey, Growth: 4.17%
+ZIP: 06877, County: Fairfield County, State: Connecticut, Growth: 4.17%
+ZIP: 06877, County: Western Connecticut Planning Region, State: Connecticut, Growth: 4.17%
+ZIP: 95360, County: Stanislaus County, State: California, Growth: 4.17%
+ZIP: 06478, County: New Haven County, State: Connecticut, Growth: 4.15%
+ZIP: 06478, County: Naugatuck Valley Planning Region, State: Connecticut, Growth: 4.15%
+ZIP: 49115, County: Berrien County, State: Michigan, Growth: 4.15%
+ZIP: 04952, County: Waldo County, State: Maine, Growth: 4.15%
+ZIP: 14719, County: Cattaraugus County, State: New York, Growth: 4.14%
+ZIP: 67026, County: Sedgwick County, State: Kansas, Growth: 4.14%
+ZIP: 08562, County: Burlington County, State: New Jersey, Growth: 4.13%
+ZIP: 03268, County: Merrimack County, State: New Hampshire, Growth: 4.13%
+ZIP: 78232, County: Bexar County, State: Texas, Growth: 4.12%
+ZIP: 74959, County: Le Flore County, State: Oklahoma, Growth: 4.12%
+ZIP: 03034, County: Rockingham County, State: New Hampshire, Growth: 4.12%
+ZIP: 72616, County: Carroll County, State: Arkansas, Growth: 4.12%
+ZIP: 12983, County: Franklin County, State: New York, Growth: 4.11%
+ZIP: 07458, County: Bergen County, State: New Jersey, Growth: 4.10%
+ZIP: 75551, County: Cass County, State: Texas, Growth: 4.10%
+ZIP: 83854, County: Kootenai County, State: Idaho, Growth: 4.09%
+ZIP: 08247, County: Cape May County, State: New Jersey, Growth: 4.09%
+ZIP: 60148, County: DuPage County, State: Illinois, Growth: 4.09%
+ZIP: 43030, County: Licking County, State: Ohio, Growth: 4.08%
+ZIP: 48909, County: Michigan Balance of State, State: Michigan, Growth: 4.08%
+ZIP: 48909, County: Berrien County, State: Michigan, Growth: 4.08%
+ZIP: 17082, County: Juniata County, State: Pennsylvania, Growth: 4.08%
+ZIP: 07450, County: Bergen County, State: New Jersey, Growth: 4.08%
+ZIP: 07002, County: Hudson County, State: New Jersey, Growth: 4.08%
+ZIP: 63349, County: Lincoln County, State: Missouri, Growth: 4.07%
+ZIP: 61734, County: Tazewell County, State: Illinois, Growth: 4.07%
+ZIP: 43324, County: Logan County, State: Ohio, Growth: 4.07%
+ZIP: 63624, County: St. Francois County, State: Missouri, Growth: 4.07%
+ZIP: 08511, County: Burlington County, State: New Jersey, Growth: 4.07%
+ZIP: 63845, County: Mississippi County, State: Missouri, Growth: 4.07%
+ZIP: 06096, County: Capitol Planning Region, State: Connecticut, Growth: 4.07%
+ZIP: 17021, County: Juniata County, State: Pennsylvania, Growth: 4.07%
+ZIP: 03581, County: Coos County, State: New Hampshire, Growth: 4.07%
+ZIP: 04646, County: Hancock County, State: Maine, Growth: 4.07%
+ZIP: 06096, County: Hartford County, State: Connecticut, Growth: 4.07%
+ZIP: 65084, County: Morgan County, State: Missouri, Growth: 4.07%
+ZIP: 16928, County: Tioga County, State: Pennsylvania, Growth: 4.07%
+ZIP: 17508, County: Lancaster County, State: Pennsylvania, Growth: 4.07%
+ZIP: 52037, County: Clinton County, State: Iowa, Growth: 4.07%
+ZIP: 14505, County: Wayne County, State: New York, Growth: 4.07%
+ZIP: 67045, County: Greenwood County, State: Kansas, Growth: 4.07%
+ZIP: 16829, County: Centre County, State: Pennsylvania, Growth: 4.07%
+ZIP: 73773, County: Garfield County, State: Oklahoma, Growth: 4.07%
+ZIP: 26601, County: Braxton County, State: West Virginia, Growth: 4.07%
+ZIP: 49911, County: Gogebic County, State: Michigan, Growth: 4.07%
+ZIP: 30807, County: Warren County, State: Georgia, Growth: 4.07%
+ZIP: 24273, County: Norton city, State: Virginia, Growth: 4.07%
+ZIP: 81422, County: Montrose County, State: Colorado, Growth: 4.07%
+ZIP: 43504, County: Lucas County, State: Ohio, Growth: 4.07%
+ZIP: 56542, County: Polk County, State: Minnesota, Growth: 4.07%
+ZIP: 08059, County: Camden County, State: New Jersey, Growth: 4.07%
+ZIP: 13421, County: Madison County, State: New York, Growth: 4.07%
+ZIP: 75475, County: Rains County, State: Texas, Growth: 4.07%
+ZIP: 14738, County: Cattaraugus County, State: New York, Growth: 4.07%
+ZIP: 83849, County: Shoshone County, State: Idaho, Growth: 4.07%
+ZIP: 13486, County: Oneida County, State: New York, Growth: 4.07%
+ZIP: 52249, County: Benton County, State: Iowa, Growth: 4.07%
+ZIP: 14883, County: Tioga County, State: New York, Growth: 4.07%
+ZIP: 14738, County: Chautauqua County, State: New York, Growth: 4.07%
+ZIP: 56542, County: Norman County, State: Minnesota, Growth: 4.07%
+ZIP: 57024, County: Moody County, State: South Dakota, Growth: 4.07%
+ZIP: 13454, County: Herkimer County, State: New York, Growth: 4.07%
+ZIP: 56248, County: Grant County, State: Minnesota, Growth: 4.07%
+ZIP: 79097, County: Carson County, State: Texas, Growth: 4.06%
+ZIP: 83234, County: Bannock County, State: Idaho, Growth: 4.06%
+ZIP: 45832, County: Van Wert County, State: Ohio, Growth: 4.06%
+ZIP: 72107, County: Conway County, State: Arkansas, Growth: 4.06%
+ZIP: 48130, County: Washtenaw County, State: Michigan, Growth: 4.06%
+ZIP: 39564, County: Jackson County, State: Mississippi, Growth: 4.05%
+ZIP: 07712, County: Monmouth County, State: New Jersey, Growth: 4.04%
+ZIP: 50438, County: Hancock County, State: Iowa, Growth: 4.04%
+ZIP: 67731, County: Cheyenne County, State: Kansas, Growth: 4.04%
+ZIP: 16854, County: Centre County, State: Pennsylvania, Growth: 4.04%
+ZIP: 60945, County: Iroquois County, State: Illinois, Growth: 4.04%
+ZIP: 81427, County: Ouray County, State: Colorado, Growth: 4.03%
+ZIP: 15359, County: Greene County, State: Pennsylvania, Growth: 4.03%
+ZIP: 01340, County: Franklin County, State: Massachusetts, Growth: 4.03%
+ZIP: 66087, County: Doniphan County, State: Kansas, Growth: 4.02%
+ZIP: 83320, County: Blaine County, State: Idaho, Growth: 4.02%
+ZIP: 30002, County: DeKalb County, State: Georgia, Growth: 4.01%
+ZIP: 62471, County: Fayette County, State: Illinois, Growth: 4.01%
+ZIP: 03842, County: Rockingham County, State: New Hampshire, Growth: 4.01%
+ZIP: 57793, County: Lawrence County, State: South Dakota, Growth: 4.00%
+ZIP: 03570, County: Coos County, State: New Hampshire, Growth: 4.00%
+ZIP: 85349, County: Yuma County, State: Arizona, Growth: 3.99%
+ZIP: 08214, County: Cape May County, State: New Jersey, Growth: 3.99%
+ZIP: 78644, County: Caldwell County, State: Texas, Growth: 3.99%
+ZIP: 95361, County: Stanislaus County, State: California, Growth: 3.99%
+ZIP: 04947, County: Franklin County, State: Maine, Growth: 3.99%
+ZIP: 07649, County: Bergen County, State: New Jersey, Growth: 3.99%
+ZIP: 08052, County: Burlington County, State: New Jersey, Growth: 3.99%
+ZIP: 16720, County: Potter County, State: Pennsylvania, Growth: 3.99%
+ZIP: 38462, County: Lewis County, State: Tennessee, Growth: 3.98%
+ZIP: 08260, County: Cape May County, State: New Jersey, Growth: 3.98%
+ZIP: 81137, County: La Plata County, State: Colorado, Growth: 3.98%
+ZIP: 07661, County: Bergen County, State: New Jersey, Growth: 3.97%
+ZIP: 51551, County: Mills County, State: Iowa, Growth: 3.97%
+ZIP: 59623, County: Lewis and Clark County, State: Montana, Growth: 3.96%
+ZIP: 57212, County: Kingsbury County, State: South Dakota, Growth: 3.95%
+ZIP: 03870, County: Rockingham County, State: New Hampshire, Growth: 3.95%
+ZIP: 13642, County: St. Lawrence County, State: New York, Growth: 3.95%
+ZIP: 59864, County: Lake County, State: Montana, Growth: 3.94%
+ZIP: 87504, County: New Mexico Balance of State, State: New Mexico, Growth: 3.94%
+ZIP: 87504, County: Santa Fe County, State: New Mexico, Growth: 3.94%
+ZIP: 08091, County: Camden County, State: New Jersey, Growth: 3.94%
+ZIP: 05867, County: Caledonia County, State: Vermont, Growth: 3.94%
+ZIP: 08002, County: Camden County, State: New Jersey, Growth: 3.93%
+ZIP: 07305, County: Hudson County, State: New Jersey, Growth: 3.92%
+ZIP: 66012, County: Wyandotte County, State: Kansas, Growth: 3.92%
+ZIP: 08084, County: Camden County, State: New Jersey, Growth: 3.91%
+ZIP: 08250, County: Cape May County, State: New Jersey, Growth: 3.91%
+ZIP: 04955, County: Franklin County, State: Maine, Growth: 3.91%
+ZIP: 87004, County: Sandoval County, State: New Mexico, Growth: 3.91%
+ZIP: 92014, County: San Diego County, State: California, Growth: 3.90%
+ZIP: 79782, County: Martin County, State: Texas, Growth: 3.90%
+ZIP: 51054, County: Woodbury County, State: Iowa, Growth: 3.90%
+ZIP: 55923, County: Fillmore County, State: Minnesota, Growth: 3.90%
+ZIP: 87401, County: San Juan County, State: New Mexico, Growth: 3.90%
+ZIP: 83669, County: Ada County, State: Idaho, Growth: 3.90%
+ZIP: 07605, County: Bergen County, State: New Jersey, Growth: 3.89%
+ZIP: 57769, County: Meade County, State: South Dakota, Growth: 3.89%
+ZIP: 73067, County: Grady County, State: Oklahoma, Growth: 3.89%
+ZIP: 57234, County: Hamlin County, State: South Dakota, Growth: 3.89%
+ZIP: 54651, County: Vernon County, State: Wisconsin, Growth: 3.89%
+ZIP: 37853, County: Blount County, State: Tennessee, Growth: 3.89%
+ZIP: 69151, County: Lincoln County, State: Nebraska, Growth: 3.89%
+ZIP: 77561, County: Liberty County, State: Texas, Growth: 3.89%
+ZIP: 68786, County: Knox County, State: Nebraska, Growth: 3.89%
+ZIP: 01225, County: Berkshire County, State: Massachusetts, Growth: 3.89%
+ZIP: 03243, County: Merrimack County, State: New Hampshire, Growth: 3.89%
+ZIP: 07670, County: Bergen County, State: New Jersey, Growth: 3.89%
+ZIP: 17267, County: Fulton County, State: Pennsylvania, Growth: 3.89%
+ZIP: 59701, County: Silver Bow County, State: Montana, Growth: 3.89%
+ZIP: 55949, County: Fillmore County, State: Minnesota, Growth: 3.89%
+ZIP: 72658, County: Baxter County, State: Arkansas, Growth: 3.89%
+ZIP: 69033, County: Chase County, State: Nebraska, Growth: 3.87%
+ZIP: 14747, County: Chautauqua County, State: New York, Growth: 3.87%
+ZIP: 35603, County: Morgan County, State: Alabama, Growth: 3.87%
+ZIP: 39437, County: Jones County, State: Mississippi, Growth: 3.86%
+ZIP: 43318, County: Logan County, State: Ohio, Growth: 3.86%
+ZIP: 13350, County: Herkimer County, State: New York, Growth: 3.86%
+ZIP: 13072, County: Madison County, State: New York, Growth: 3.86%
+ZIP: 13753, County: Delaware County, State: New York, Growth: 3.86%
+ZIP: 50669, County: Grundy County, State: Iowa, Growth: 3.86%
+ZIP: 03841, County: Rockingham County, State: New Hampshire, Growth: 3.86%
+ZIP: 81641, County: Rio Blanco County, State: Colorado, Growth: 3.86%
+ZIP: 07849, County: Morris County, State: New Jersey, Growth: 3.85%
+ZIP: 45387, County: Greene County, State: Ohio, Growth: 3.85%
+ZIP: 18405, County: Wayne County, State: Pennsylvania, Growth: 3.85%
+ZIP: 83422, County: Teton County, State: Idaho, Growth: 3.85%
+ZIP: 14712, County: Chautauqua County, State: New York, Growth: 3.85%
+ZIP: 35462, County: Greene County, State: Alabama, Growth: 3.85%
+ZIP: 14760, County: Cattaraugus County, State: New York, Growth: 3.85%
+ZIP: 66713, County: Cherokee County, State: Kansas, Growth: 3.84%
+ZIP: 66771, County: Neosho County, State: Kansas, Growth: 3.84%
+ZIP: 56763, County: Roseau County, State: Minnesota, Growth: 3.84%
+ZIP: 17322, County: York County, State: Pennsylvania, Growth: 3.84%
+ZIP: 81122, County: La Plata County, State: Colorado, Growth: 3.83%
+ZIP: 13783, County: Delaware County, State: New York, Growth: 3.83%
+ZIP: 74848, County: Hughes County, State: Oklahoma, Growth: 3.83%
+ZIP: 03574, County: Grafton County, State: New Hampshire, Growth: 3.83%
+ZIP: 12404, County: Ulster County, State: New York, Growth: 3.83%
+ZIP: 52328, County: Linn County, State: Iowa, Growth: 3.82%
+ZIP: 81063, County: Crowley County, State: Colorado, Growth: 3.82%
+ZIP: 08109, County: Camden County, State: New Jersey, Growth: 3.82%
+ZIP: 08046, County: Burlington County, State: New Jersey, Growth: 3.82%
+ZIP: 13787, County: Broome County, State: New York, Growth: 3.82%
+ZIP: 56441, County: Crow Wing County, State: Minnesota, Growth: 3.81%
+ZIP: 54819, County: Rusk County, State: Wisconsin, Growth: 3.81%
+ZIP: 43222, County: Franklin County, State: Ohio, Growth: 3.81%
+ZIP: 07071, County: Bergen County, State: New Jersey, Growth: 3.81%
+ZIP: 38866, County: Lee County, State: Mississippi, Growth: 3.80%
+ZIP: 16750, County: McKean County, State: Pennsylvania, Growth: 3.80%
+ZIP: 64633, County: Carroll County, State: Missouri, Growth: 3.80%
+ZIP: 72863, County: Logan County, State: Arkansas, Growth: 3.80%
+ZIP: 07481, County: Bergen County, State: New Jersey, Growth: 3.80%
+ZIP: 64720, County: Bates County, State: Missouri, Growth: 3.80%
+ZIP: 83406, County: Bonneville County, State: Idaho, Growth: 3.79%
+ZIP: 54902, County: Winnebago County, State: Wisconsin, Growth: 3.79%
+ZIP: 12477, County: Ulster County, State: New York, Growth: 3.79%
+ZIP: 80866, County: Teller County, State: Colorado, Growth: 3.79%
+ZIP: 83530, County: Idaho County, State: Idaho, Growth: 3.79%
+ZIP: 81132, County: Rio Grande County, State: Colorado, Growth: 3.77%
+ZIP: 16662, County: Blair County, State: Pennsylvania, Growth: 3.77%
+ZIP: 03222, County: Grafton County, State: New Hampshire, Growth: 3.77%
+ZIP: 77417, County: Fort Bend County, State: Texas, Growth: 3.76%
+ZIP: 76667, County: Limestone County, State: Texas, Growth: 3.76%
+ZIP: 08555, County: Monmouth County, State: New Jersey, Growth: 3.76%
+ZIP: 83840, County: Bonner County, State: Idaho, Growth: 3.76%
+ZIP: 78071, County: Live Oak County, State: Texas, Growth: 3.76%
+ZIP: 49969, County: Gogebic County, State: Michigan, Growth: 3.75%
+ZIP: 01031, County: Worcester County, State: Massachusetts, Growth: 3.75%
+ZIP: 69152, County: Hooker County, State: Nebraska, Growth: 3.75%
+ZIP: 97355, County: Linn County, State: Oregon, Growth: 3.74%
+ZIP: 05352, County: Bennington County, State: Vermont, Growth: 3.74%
+ZIP: 75433, County: Hopkins County, State: Texas, Growth: 3.74%
+ZIP: 79714, County: Andrews County, State: Texas, Growth: 3.74%
+ZIP: 37350, County: Hamilton County, State: Tennessee, Growth: 3.74%
+ZIP: 67060, County: Sedgwick County, State: Kansas, Growth: 3.74%
+ZIP: 35150, County: Talladega County, State: Alabama, Growth: 3.74%
+ZIP: 64463, County: Gentry County, State: Missouri, Growth: 3.74%
+ZIP: 84721, County: Iron County, State: Utah, Growth: 3.73%
+ZIP: 61561, County: Woodford County, State: Illinois, Growth: 3.73%
+ZIP: 52585, County: Keokuk County, State: Iowa, Growth: 3.73%
+ZIP: 56097, County: Faribault County, State: Minnesota, Growth: 3.73%
+ZIP: 55790, County: St. Louis County, State: Minnesota, Growth: 3.73%
+ZIP: 15748, County: Indiana County, State: Pennsylvania, Growth: 3.73%
+ZIP: 03602, County: Sullivan County, State: New Hampshire, Growth: 3.73%
+ZIP: 62884, County: Franklin County, State: Illinois, Growth: 3.73%
+ZIP: 16733, County: McKean County, State: Pennsylvania, Growth: 3.73%
+ZIP: 08317, County: Atlantic County, State: New Jersey, Growth: 3.73%
+ZIP: 08215, County: Atlantic County, State: New Jersey, Growth: 3.73%
+ZIP: 12937, County: Franklin County, State: New York, Growth: 3.73%
+ZIP: 72064, County: Prairie County, State: Arkansas, Growth: 3.73%
+ZIP: 56240, County: Big Stone County, State: Minnesota, Growth: 3.73%
+ZIP: 56293, County: Redwood County, State: Minnesota, Growth: 3.73%
+ZIP: 50130, County: Hamilton County, State: Iowa, Growth: 3.73%
+ZIP: 04976, County: Somerset County, State: Maine, Growth: 3.73%
+ZIP: 39666, County: Pike County, State: Mississippi, Growth: 3.73%
+ZIP: 75050, County: Dallas County, State: Texas, Growth: 3.72%
+ZIP: 13861, County: Otsego County, State: New York, Growth: 3.72%
+ZIP: 50118, County: Warren County, State: Iowa, Growth: 3.72%
+ZIP: 17760, County: Clinton County, State: Pennsylvania, Growth: 3.72%
+ZIP: 52627, County: Lee County, State: Iowa, Growth: 3.72%
+ZIP: 66054, County: Jefferson County, State: Kansas, Growth: 3.72%
+ZIP: 13353, County: Hamilton County, State: New York, Growth: 3.72%
+ZIP: 16601, County: Blair County, State: Pennsylvania, Growth: 3.72%
+ZIP: 65631, County: Christian County, State: Missouri, Growth: 3.72%
+ZIP: 18062, County: Lehigh County, State: Pennsylvania, Growth: 3.71%
+ZIP: 18062, County: Berks County, State: Pennsylvania, Growth: 3.71%
+ZIP: 03290, County: Rockingham County, State: New Hampshire, Growth: 3.71%
+ZIP: 07607, County: Bergen County, State: New Jersey, Growth: 3.71%
+ZIP: 06455, County: Lower Connecticut River Valley Planning Region, State: Connecticut, Growth: 3.71%
+ZIP: 06455, County: Middlesex County, State: Connecticut, Growth: 3.71%
+ZIP: 66219, County: Johnson County, State: Kansas, Growth: 3.70%
+ZIP: 83522, County: Idaho County, State: Idaho, Growth: 3.70%
+ZIP: 64743, County: Cass County, State: Missouri, Growth: 3.70%
+ZIP: 50525, County: Wright County, State: Iowa, Growth: 3.70%
+ZIP: 02568, County: Dukes County, State: Massachusetts, Growth: 3.70%
+ZIP: 08210, County: Cape May County, State: New Jersey, Growth: 3.69%
+ZIP: 03261, County: Rockingham County, State: New Hampshire, Growth: 3.69%
+ZIP: 50629, County: Buchanan County, State: Iowa, Growth: 3.69%
+ZIP: 03887, County: Strafford County, State: New Hampshire, Growth: 3.69%
+ZIP: 08217, County: Atlantic County, State: New Jersey, Growth: 3.69%
+ZIP: 80461, County: Lake County, State: Colorado, Growth: 3.68%
+ZIP: 24112, County: Martinsville city, State: Virginia, Growth: 3.68%
+ZIP: 16743, County: McKean County, State: Pennsylvania, Growth: 3.68%
+ZIP: 16743, County: Potter County, State: Pennsylvania, Growth: 3.68%
+ZIP: 13437, County: Oswego County, State: New York, Growth: 3.68%
+ZIP: 18353, County: Monroe County, State: Pennsylvania, Growth: 3.67%
+ZIP: 05363, County: Windham County, State: Vermont, Growth: 3.67%
+ZIP: 65740, County: Taney County, State: Missouri, Growth: 3.67%
+ZIP: 14058, County: Genesee County, State: New York, Growth: 3.67%
+ZIP: 61739, County: Livingston County, State: Illinois, Growth: 3.67%
+ZIP: 53015, County: Manitowoc County, State: Wisconsin, Growth: 3.67%
+ZIP: 04051, County: Oxford County, State: Maine, Growth: 3.67%
+ZIP: 93657, County: Fresno County, State: California, Growth: 3.67%
+ZIP: 83852, County: Bonner County, State: Idaho, Growth: 3.67%
+ZIP: 72324, County: Cross County, State: Arkansas, Growth: 3.66%
+ZIP: 50536, County: Palo Alto County, State: Iowa, Growth: 3.66%
+ZIP: 15541, County: Somerset County, State: Pennsylvania, Growth: 3.66%
+ZIP: 08226, County: Cape May County, State: New Jersey, Growth: 3.66%
+ZIP: 33328, County: Broward County, State: Florida, Growth: 3.66%
+ZIP: 81435, County: San Miguel County, State: Colorado, Growth: 3.65%
+ZIP: 73036, County: Canadian County, State: Oklahoma, Growth: 3.65%
+ZIP: 29710, County: York County, State: South Carolina, Growth: 3.65%
+ZIP: 96732, County: Maui County, State: Hawaii, Growth: 3.65%
+ZIP: 30750, County: Walker County, State: Georgia, Growth: 3.65%
+ZIP: 04062, County: Cumberland County, State: Maine, Growth: 3.65%
+ZIP: 14757, County: Chautauqua County, State: New York, Growth: 3.64%
+ZIP: 17823, County: Northumberland County, State: Pennsylvania, Growth: 3.64%
+ZIP: 17922, County: Schuylkill County, State: Pennsylvania, Growth: 3.64%
+ZIP: 16633, County: Bedford County, State: Pennsylvania, Growth: 3.64%
+ZIP: 97360, County: Linn County, State: Oregon, Growth: 3.64%
+ZIP: 72415, County: Lawrence County, State: Arkansas, Growth: 3.64%
+ZIP: 03865, County: Rockingham County, State: New Hampshire, Growth: 3.64%
+ZIP: 13339, County: Montgomery County, State: New York, Growth: 3.63%
+ZIP: 51102, County: Woodbury County, State: Iowa, Growth: 3.63%
+ZIP: 81226, County: Fremont County, State: Colorado, Growth: 3.63%
+ZIP: 07926, County: Morris County, State: New Jersey, Growth: 3.62%
+ZIP: 31601, County: Lowndes County, State: Georgia, Growth: 3.62%
+ZIP: 67140, County: Sumner County, State: Kansas, Growth: 3.62%
+ZIP: 81321, County: Montezuma County, State: Colorado, Growth: 3.61%
+ZIP: 98275, County: Snohomish County, State: Washington, Growth: 3.61%
+ZIP: 08048, County: Burlington County, State: New Jersey, Growth: 3.61%
+ZIP: 13026, County: Cayuga County, State: New York, Growth: 3.61%
+ZIP: 03303, County: Merrimack County, State: New Hampshire, Growth: 3.61%
+ZIP: 51247, County: Sioux County, State: Iowa, Growth: 3.61%
+ZIP: 37327, County: Sequatchie County, State: Tennessee, Growth: 3.60%
+ZIP: 78017, County: Frio County, State: Texas, Growth: 3.60%
+ZIP: 17921, County: Schuylkill County, State: Pennsylvania, Growth: 3.60%
+ZIP: 66415, County: Nemaha County, State: Kansas, Growth: 3.60%
+ZIP: 78239, County: Bexar County, State: Texas, Growth: 3.60%
+ZIP: 56524, County: Otter Tail County, State: Minnesota, Growth: 3.60%
+ZIP: 50219, County: Marion County, State: Iowa, Growth: 3.60%
+ZIP: 83501, County: Nez Perce County, State: Idaho, Growth: 3.60%
+ZIP: 39648, County: Pike County, State: Mississippi, Growth: 3.59%
+ZIP: 61723, County: Logan County, State: Illinois, Growth: 3.59%
+ZIP: 85602, County: Cochise County, State: Arizona, Growth: 3.59%
+ZIP: 07087, County: Hudson County, State: New Jersey, Growth: 3.59%
+ZIP: 01057, County: Hampden County, State: Massachusetts, Growth: 3.59%
+ZIP: 06752, County: Western Connecticut Planning Region, State: Connecticut, Growth: 3.59%
+ZIP: 15920, County: Indiana County, State: Pennsylvania, Growth: 3.59%
+ZIP: 68359, County: Saline County, State: Nebraska, Growth: 3.59%
+ZIP: 21014, County: Harford County, State: Maryland, Growth: 3.59%
+ZIP: 25070, County: Putnam County, State: West Virginia, Growth: 3.59%
+ZIP: 65759, County: Taney County, State: Missouri, Growth: 3.59%
+ZIP: 64670, County: Daviess County, State: Missouri, Growth: 3.59%
+ZIP: 16693, County: Blair County, State: Pennsylvania, Growth: 3.59%
+ZIP: 12106, County: Columbia County, State: New York, Growth: 3.59%
+ZIP: 67524, County: Rice County, State: Kansas, Growth: 3.59%
+ZIP: 06752, County: Litchfield County, State: Connecticut, Growth: 3.59%
+ZIP: 67020, County: Harvey County, State: Kansas, Growth: 3.59%
+ZIP: 14815, County: Steuben County, State: New York, Growth: 3.59%
+ZIP: 13690, County: St. Lawrence County, State: New York, Growth: 3.59%
+ZIP: 13625, County: St. Lawrence County, State: New York, Growth: 3.59%
+ZIP: 13064, County: Cayuga County, State: New York, Growth: 3.59%
+ZIP: 14422, County: Genesee County, State: New York, Growth: 3.59%
+ZIP: 52327, County: Washington County, State: Iowa, Growth: 3.59%
+ZIP: 52637, County: Des Moines County, State: Iowa, Growth: 3.59%
+ZIP: 50621, County: Grundy County, State: Iowa, Growth: 3.59%
+ZIP: 04654, County: Washington County, State: Maine, Growth: 3.59%
+ZIP: 52160, County: Allamakee County, State: Iowa, Growth: 3.59%
+ZIP: 52208, County: Benton County, State: Iowa, Growth: 3.59%
+ZIP: 04476, County: Hancock County, State: Maine, Growth: 3.59%
+ZIP: 52224, County: Tama County, State: Iowa, Growth: 3.59%
+ZIP: 43758, County: Morgan County, State: Ohio, Growth: 3.59%
+ZIP: 50207, County: Mahaska County, State: Iowa, Growth: 3.59%
+ZIP: 74058, County: Pawnee County, State: Oklahoma, Growth: 3.59%
+ZIP: 39735, County: Choctaw County, State: Mississippi, Growth: 3.59%
+ZIP: 45499, County: Montgomery County, State: Ohio, Growth: 3.59%
+ZIP: 45715, County: Washington County, State: Ohio, Growth: 3.59%
+ZIP: 46979, County: Howard County, State: Indiana, Growth: 3.59%
+ZIP: 57261, County: Day County, State: South Dakota, Growth: 3.59%
+ZIP: 56335, County: Stearns County, State: Minnesota, Growth: 3.59%
+ZIP: 56143, County: Jackson County, State: Minnesota, Growth: 3.59%
+ZIP: 56222, County: Chippewa County, State: Minnesota, Growth: 3.59%
+ZIP: 56155, County: Nobles County, State: Minnesota, Growth: 3.59%
+ZIP: 85643, County: Cochise County, State: Arizona, Growth: 3.59%
+ZIP: 52309, County: Jackson County, State: Iowa, Growth: 3.59%
+ZIP: 61341, County: LaSalle County, State: Illinois, Growth: 3.59%
+ZIP: 66524, County: Osage County, State: Kansas, Growth: 3.59%
+ZIP: 67871, County: Scott County, State: Kansas, Growth: 3.59%
+ZIP: 16948, County: Potter County, State: Pennsylvania, Growth: 3.59%
+ZIP: 39071, County: Madison County, State: Mississippi, Growth: 3.59%
+ZIP: 67522, County: Reno County, State: Kansas, Growth: 3.58%
+ZIP: 99171, County: Whitman County, State: Washington, Growth: 3.58%
+ZIP: 56159, County: Cottonwood County, State: Minnesota, Growth: 3.58%
+ZIP: 82426, County: Big Horn County, State: Wyoming, Growth: 3.58%
+ZIP: 53083, County: Sheboygan County, State: Wisconsin, Growth: 3.58%
+ZIP: 95827, County: Sacramento County, State: California, Growth: 3.58%
+ZIP: 08036, County: Burlington County, State: New Jersey, Growth: 3.57%
+ZIP: 13084, County: Onondaga County, State: New York, Growth: 3.57%
+ZIP: 75126, County: Kaufman County, State: Texas, Growth: 3.56%
+ZIP: 83612, County: Adams County, State: Idaho, Growth: 3.56%
+ZIP: 67402, County: Saline County, State: Kansas, Growth: 3.56%
+ZIP: 83442, County: Jefferson County, State: Idaho, Growth: 3.56%
+ZIP: 17959, County: Schuylkill County, State: Pennsylvania, Growth: 3.55%
+ZIP: 13755, County: Delaware County, State: New York, Growth: 3.55%
+ZIP: 37650, County: Unicoi County, State: Tennessee, Growth: 3.55%
+ZIP: 29303, County: Spartanburg County, State: South Carolina, Growth: 3.55%
+ZIP: 07646, County: Bergen County, State: New Jersey, Growth: 3.54%
+ZIP: 35185, County: Shelby County, State: Alabama, Growth: 3.54%
+ZIP: 12547, County: Ulster County, State: New York, Growth: 3.54%
+ZIP: 37820, County: Jefferson County, State: Tennessee, Growth: 3.54%
+ZIP: 21643, County: Dorchester County, State: Maryland, Growth: 3.54%
+ZIP: 13856, County: Delaware County, State: New York, Growth: 3.53%
+ZIP: 98270, County: Snohomish County, State: Washington, Growth: 3.52%
+ZIP: 60421, County: Will County, State: Illinois, Growth: 3.52%
+ZIP: 61951, County: Moultrie County, State: Illinois, Growth: 3.52%
+ZIP: 75164, County: Collin County, State: Texas, Growth: 3.52%
+ZIP: 13648, County: St. Lawrence County, State: New York, Growth: 3.52%
+ZIP: 63841, County: Stoddard County, State: Missouri, Growth: 3.52%
+ZIP: 98247, County: Whatcom County, State: Washington, Growth: 3.51%
+ZIP: 35179, County: Cullman County, State: Alabama, Growth: 3.51%
+ZIP: 18445, County: Wayne County, State: Pennsylvania, Growth: 3.51%
+ZIP: 14120, County: Niagara County, State: New York, Growth: 3.51%
+ZIP: 37356, County: Grundy County, State: Tennessee, Growth: 3.51%
+ZIP: 03036, County: Rockingham County, State: New Hampshire, Growth: 3.51%
+ZIP: 66534, County: Nemaha County, State: Kansas, Growth: 3.51%
+ZIP: 14877, County: Steuben County, State: New York, Growth: 3.50%
+ZIP: 14724, County: Chautauqua County, State: New York, Growth: 3.50%
+ZIP: 32055, County: Columbia County, State: Florida, Growth: 3.50%
+ZIP: 13838, County: Delaware County, State: New York, Growth: 3.50%
+ZIP: 80117, County: Elbert County, State: Colorado, Growth: 3.49%
+ZIP: 74834, County: Lincoln County, State: Oklahoma, Growth: 3.49%
+ZIP: 78374, County: San Patricio County, State: Texas, Growth: 3.49%
+ZIP: 47501, County: Daviess County, State: Indiana, Growth: 3.49%
+ZIP: 46167, County: Hendricks County, State: Indiana, Growth: 3.49%
+ZIP: 67219, County: Sedgwick County, State: Kansas, Growth: 3.49%
+ZIP: 75090, County: Grayson County, State: Texas, Growth: 3.49%
+ZIP: 58075, County: Richland County, State: North Dakota, Growth: 3.49%
+ZIP: 37111, County: Warren County, State: Tennessee, Growth: 3.49%
+ZIP: 65742, County: Webster County, State: Missouri, Growth: 3.49%
+ZIP: 99113, County: Whitman County, State: Washington, Growth: 3.48%
+ZIP: 03258, County: Merrimack County, State: New Hampshire, Growth: 3.48%
+ZIP: 59741, County: Gallatin County, State: Montana, Growth: 3.47%
+ZIP: 12401, County: Ulster County, State: New York, Growth: 3.47%
+ZIP: 16823, County: Centre County, State: Pennsylvania, Growth: 3.47%
+ZIP: 30125, County: Polk County, State: Georgia, Growth: 3.47%
+ZIP: 04346, County: Kennebec County, State: Maine, Growth: 3.47%
+ZIP: 84327, County: Cache County, State: Utah, Growth: 3.47%
+ZIP: 61520, County: Fulton County, State: Illinois, Growth: 3.47%
+ZIP: 76642, County: Limestone County, State: Texas, Growth: 3.47%
+ZIP: 08406, County: Atlantic County, State: New Jersey, Growth: 3.47%
+ZIP: 52742, County: Clinton County, State: Iowa, Growth: 3.46%
+ZIP: 03084, County: Hillsborough County, State: New Hampshire, Growth: 3.46%
+ZIP: 12725, County: Ulster County, State: New York, Growth: 3.46%
+ZIP: 47446, County: Lawrence County, State: Indiana, Growth: 3.46%
+ZIP: 36202, County: Calhoun County, State: Alabama, Growth: 3.46%
+ZIP: 81225, County: Gunnison County, State: Colorado, Growth: 3.46%
+ZIP: 48658, County: Arenac County, State: Michigan, Growth: 3.46%
+ZIP: 30527, County: Hall County, State: Georgia, Growth: 3.46%
+ZIP: 67730, County: Rawlins County, State: Kansas, Growth: 3.46%
+ZIP: 07047, County: Hudson County, State: New Jersey, Growth: 3.45%
+ZIP: 12748, County: Sullivan County, State: New York, Growth: 3.45%
+ZIP: 45714, County: Washington County, State: Ohio, Growth: 3.45%
+ZIP: 68713, County: Holt County, State: Nebraska, Growth: 3.45%
+ZIP: 14743, County: Cattaraugus County, State: New York, Growth: 3.45%
+ZIP: 84631, County: Millard County, State: Utah, Growth: 3.45%
+ZIP: 47130, County: Clark County, State: Indiana, Growth: 3.45%
+ZIP: 60523, County: DuPage County, State: Illinois, Growth: 3.44%
+ZIP: 03307, County: Merrimack County, State: New Hampshire, Growth: 3.44%
+ZIP: 67147, County: Sedgwick County, State: Kansas, Growth: 3.44%
+ZIP: 24091, County: Floyd County, State: Virginia, Growth: 3.44%
+ZIP: 63351, County: Montgomery County, State: Missouri, Growth: 3.44%
+ZIP: 01240, County: Berkshire County, State: Massachusetts, Growth: 3.44%
+ZIP: 16877, County: Huntingdon County, State: Pennsylvania, Growth: 3.44%
+ZIP: 92301, County: San Bernardino County, State: California, Growth: 3.44%
+ZIP: 32234, County: Duval County, State: Florida, Growth: 3.44%
+ZIP: 23662, County: Poquoson city, State: Virginia, Growth: 3.44%
+ZIP: 12484, County: Ulster County, State: New York, Growth: 3.44%
+ZIP: 81052, County: Prowers County, State: Colorado, Growth: 3.43%
+ZIP: 12946, County: Essex County, State: New York, Growth: 3.43%
+ZIP: 03077, County: Rockingham County, State: New Hampshire, Growth: 3.43%
+ZIP: 45880, County: Paulding County, State: Ohio, Growth: 3.43%
+ZIP: 08251, County: Cape May County, State: New Jersey, Growth: 3.43%
+ZIP: 84075, County: Davis County, State: Utah, Growth: 3.43%
+ZIP: 45813, County: Paulding County, State: Ohio, Growth: 3.42%
+ZIP: 04929, County: Somerset County, State: Maine, Growth: 3.42%
+ZIP: 14893, County: Steuben County, State: New York, Growth: 3.42%
+ZIP: 47906, County: Tippecanoe County, State: Indiana, Growth: 3.42%
+ZIP: 05343, County: Windham County, State: Vermont, Growth: 3.42%
+ZIP: 83443, County: Jefferson County, State: Idaho, Growth: 3.42%
+ZIP: 14020, County: Genesee County, State: New York, Growth: 3.41%
+ZIP: 56279, County: Kandiyohi County, State: Minnesota, Growth: 3.41%
+ZIP: 17241, County: Cumberland County, State: Pennsylvania, Growth: 3.41%
+ZIP: 98520, County: Grays Harbor County, State: Washington, Growth: 3.41%
+ZIP: 81301, County: La Plata County, State: Colorado, Growth: 3.41%
+ZIP: 91764, County: San Bernardino County, State: California, Growth: 3.41%
+ZIP: 65026, County: Miller County, State: Missouri, Growth: 3.41%
+ZIP: 08204, County: Cape May County, State: New Jersey, Growth: 3.41%
+ZIP: 76268, County: Grayson County, State: Texas, Growth: 3.41%
+ZIP: 80401, County: Jefferson County, State: Colorado, Growth: 3.40%
+ZIP: 08088, County: Burlington County, State: New Jersey, Growth: 3.40%
+ZIP: 75146, County: Dallas County, State: Texas, Growth: 3.40%
+ZIP: 01069, County: Hampden County, State: Massachusetts, Growth: 3.40%
+ZIP: 14063, County: Chautauqua County, State: New York, Growth: 3.40%
+ZIP: 50854, County: Ringgold County, State: Iowa, Growth: 3.40%
+ZIP: 04848, County: Waldo County, State: Maine, Growth: 3.39%
+ZIP: 16940, County: Tioga County, State: Pennsylvania, Growth: 3.39%
+ZIP: 15338, County: Greene County, State: Pennsylvania, Growth: 3.39%
+ZIP: 64601, County: Livingston County, State: Missouri, Growth: 3.39%
+ZIP: 17255, County: Huntingdon County, State: Pennsylvania, Growth: 3.38%
+ZIP: 03833, County: Rockingham County, State: New Hampshire, Growth: 3.38%
+ZIP: 81611, County: Pitkin County, State: Colorado, Growth: 3.38%
+ZIP: 72630, County: Boone County, State: Arkansas, Growth: 3.38%
+ZIP: 63334, County: Pike County, State: Missouri, Growth: 3.38%
+ZIP: 82321, County: Carbon County, State: Wyoming, Growth: 3.38%
+ZIP: 84301, County: Box Elder County, State: Utah, Growth: 3.38%
+ZIP: 03851, County: Strafford County, State: New Hampshire, Growth: 3.38%
+ZIP: 04441, County: Piscataquis County, State: Maine, Growth: 3.38%
+ZIP: 80910, County: El Paso County, State: Colorado, Growth: 3.38%
+ZIP: 43524, County: Henry County, State: Ohio, Growth: 3.37%
+ZIP: 44824, County: Erie County, State: Ohio, Growth: 3.37%
+ZIP: 54670, County: Monroe County, State: Wisconsin, Growth: 3.36%
+ZIP: 54670, County: Buffalo County, State: Wisconsin, Growth: 3.36%
+ZIP: 03819, County: Rockingham County, State: New Hampshire, Growth: 3.36%
+ZIP: 16435, County: Crawford County, State: Pennsylvania, Growth: 3.36%
+ZIP: 51632, County: Page County, State: Iowa, Growth: 3.36%
+ZIP: 51055, County: Woodbury County, State: Iowa, Growth: 3.35%
+ZIP: 80513, County: Larimer County, State: Colorado, Growth: 3.35%
+ZIP: 80517, County: Larimer County, State: Colorado, Growth: 3.35%
+ZIP: 13751, County: Delaware County, State: New York, Growth: 3.35%
+ZIP: 98611, County: Cowlitz County, State: Washington, Growth: 3.35%
+ZIP: 91008, County: Los Angeles County, State: California, Growth: 3.35%
+ZIP: 53820, County: Grant County, State: Wisconsin, Growth: 3.35%
+ZIP: 63780, County: Scott County, State: Missouri, Growth: 3.35%
+ZIP: 80427, County: Gilpin County, State: Colorado, Growth: 3.35%
+ZIP: 83261, County: Bear Lake County, State: Idaho, Growth: 3.34%
+ZIP: 02842, County: Newport County, State: Rhode Island, Growth: 3.34%
+ZIP: 80002, County: Jefferson County, State: Colorado, Growth: 3.34%
+ZIP: 67052, County: Sedgwick County, State: Kansas, Growth: 3.34%
+ZIP: 74426, County: McIntosh County, State: Oklahoma, Growth: 3.34%
+ZIP: 55746, County: St. Louis County, State: Minnesota, Growth: 3.34%
+ZIP: 96766, County: Kauai County, State: Hawaii, Growth: 3.34%
+ZIP: 66508, County: Marshall County, State: Kansas, Growth: 3.34%
+ZIP: 67056, County: Harvey County, State: Kansas, Growth: 3.34%
+ZIP: 66436, County: Jackson County, State: Kansas, Growth: 3.33%
+ZIP: 69001, County: Red Willow County, State: Nebraska, Growth: 3.33%
+ZIP: 87571, County: Taos County, State: New Mexico, Growth: 3.33%
+ZIP: 84645, County: Juab County, State: Utah, Growth: 3.33%
+ZIP: 54727, County: Chippewa County, State: Wisconsin, Growth: 3.33%
+ZIP: 54727, County: Eau Claire County, State: Wisconsin, Growth: 3.33%
+ZIP: 07423, County: Bergen County, State: New Jersey, Growth: 3.33%
+ZIP: 05056, County: Windsor County, State: Vermont, Growth: 3.32%
+ZIP: 07079, County: Essex County, State: New Jersey, Growth: 3.32%
+ZIP: 43521, County: Fulton County, State: Ohio, Growth: 3.32%
+ZIP: 52042, County: Delaware County, State: Iowa, Growth: 3.32%
+ZIP: 52255, County: Cedar County, State: Iowa, Growth: 3.32%
+ZIP: 51461, County: Crawford County, State: Iowa, Growth: 3.32%
+ZIP: 51458, County: Sac County, State: Iowa, Growth: 3.32%
+ZIP: 54486, County: Shawano County, State: Wisconsin, Growth: 3.32%
+ZIP: 60424, County: Grundy County, State: Illinois, Growth: 3.32%
+ZIP: 50212, County: Boone County, State: Iowa, Growth: 3.32%
+ZIP: 04765, County: Aroostook County, State: Maine, Growth: 3.32%
+ZIP: 14804, County: Steuben County, State: New York, Growth: 3.32%
+ZIP: 14772, County: Cattaraugus County, State: New York, Growth: 3.32%
+ZIP: 08518, County: Burlington County, State: New Jersey, Growth: 3.32%
+ZIP: 59007, County: Carbon County, State: Montana, Growth: 3.32%
+ZIP: 60446, County: Will County, State: Illinois, Growth: 3.32%
+ZIP: 03827, County: Rockingham County, State: New Hampshire, Growth: 3.32%
+ZIP: 55736, County: St. Louis County, State: Minnesota, Growth: 3.32%
+ZIP: 58579, County: McLean County, State: North Dakota, Growth: 3.32%
+ZIP: 14723, County: Chautauqua County, State: New York, Growth: 3.32%
+ZIP: 15747, County: Indiana County, State: Pennsylvania, Growth: 3.32%
+ZIP: 15552, County: Somerset County, State: Pennsylvania, Growth: 3.32%
+ZIP: 14804, County: Allegany County, State: New York, Growth: 3.32%
+ZIP: 45874, County: Van Wert County, State: Ohio, Growth: 3.32%
+ZIP: 66967, County: Smith County, State: Kansas, Growth: 3.32%
+ZIP: 67449, County: Dickinson County, State: Kansas, Growth: 3.32%
+ZIP: 67017, County: Butler County, State: Kansas, Growth: 3.32%
+ZIP: 61281, County: Mercer County, State: Illinois, Growth: 3.32%
+ZIP: 73542, County: Tillman County, State: Oklahoma, Growth: 3.32%
+ZIP: 62540, County: Christian County, State: Illinois, Growth: 3.32%
+ZIP: 45325, County: Montgomery County, State: Ohio, Growth: 3.32%
+ZIP: 83241, County: Caribou County, State: Idaho, Growth: 3.32%
+ZIP: 81241, County: Gunnison County, State: Colorado, Growth: 3.32%
+ZIP: 81130, County: Mineral County, State: Colorado, Growth: 3.32%
+ZIP: 78006, County: Kendall County, State: Texas, Growth: 3.31%
+ZIP: 79355, County: Yoakum County, State: Texas, Growth: 3.31%
+ZIP: 12037, County: Columbia County, State: New York, Growth: 3.31%
+ZIP: 37058, County: Stewart County, State: Tennessee, Growth: 3.31%
+ZIP: 56447, County: Crow Wing County, State: Minnesota, Growth: 3.30%
+ZIP: 81625, County: Moffat County, State: Colorado, Growth: 3.30%
+ZIP: 18302, County: Monroe County, State: Pennsylvania, Growth: 3.30%
+ZIP: 39602, County: Lincoln County, State: Mississippi, Growth: 3.30%
+ZIP: 54828, County: Sawyer County, State: Wisconsin, Growth: 3.30%
+ZIP: 83843, County: Latah County, State: Idaho, Growth: 3.30%
+ZIP: 08202, County: Cape May County, State: New Jersey, Growth: 3.30%
+ZIP: 04084, County: Cumberland County, State: Maine, Growth: 3.30%
+ZIP: 68767, County: Pierce County, State: Nebraska, Growth: 3.29%
+ZIP: 14867, County: Tompkins County, State: New York, Growth: 3.29%
+ZIP: 84311, County: Box Elder County, State: Utah, Growth: 3.29%
+ZIP: 07010, County: Bergen County, State: New Jersey, Growth: 3.29%
+ZIP: 29812, County: Barnwell County, State: South Carolina, Growth: 3.29%
+ZIP: 20111, County: Manassas Park city, State: Virginia, Growth: 3.29%
+ZIP: 12159, County: Albany County, State: New York, Growth: 3.29%
+ZIP: 71655, County: Drew County, State: Arkansas, Growth: 3.29%
+ZIP: 36567, County: Baldwin County, State: Alabama, Growth: 3.29%
+ZIP: 03458, County: Hillsborough County, State: New Hampshire, Growth: 3.28%
+ZIP: 52353, County: Washington County, State: Iowa, Growth: 3.28%
+ZIP: 36401, County: Conecuh County, State: Alabama, Growth: 3.28%
+ZIP: 03042, County: Rockingham County, State: New Hampshire, Growth: 3.28%
+ZIP: 83316, County: Twin Falls County, State: Idaho, Growth: 3.28%
+ZIP: 28467, County: Brunswick County, State: North Carolina, Growth: 3.28%
+ZIP: 93250, County: Kern County, State: California, Growth: 3.28%
+ZIP: 83455, County: Teton County, State: Idaho, Growth: 3.28%
+ZIP: 19508, County: Berks County, State: Pennsylvania, Growth: 3.27%
+ZIP: 06790, County: Northwest Hills Planning Region, State: Connecticut, Growth: 3.27%
+ZIP: 06790, County: Litchfield County, State: Connecticut, Growth: 3.27%
+ZIP: 31816, County: Meriwether County, State: Georgia, Growth: 3.27%
+ZIP: 66733, County: Neosho County, State: Kansas, Growth: 3.27%
+ZIP: 24228, County: Dickenson County, State: Virginia, Growth: 3.26%
+ZIP: 66025, County: Douglas County, State: Kansas, Growth: 3.26%
+ZIP: 17007, County: Cumberland County, State: Pennsylvania, Growth: 3.26%
+ZIP: 72601, County: Boone County, State: Arkansas, Growth: 3.26%
+ZIP: 17059, County: Juniata County, State: Pennsylvania, Growth: 3.26%
+ZIP: 67135, County: Harvey County, State: Kansas, Growth: 3.26%
+ZIP: 80620, County: Weld County, State: Colorado, Growth: 3.26%
+ZIP: 04285, County: Franklin County, State: Maine, Growth: 3.26%
+ZIP: 02666, County: Barnstable County, State: Massachusetts, Growth: 3.26%
+ZIP: 67062, County: Harvey County, State: Kansas, Growth: 3.26%
+ZIP: 52317, County: Johnson County, State: Iowa, Growth: 3.26%
+ZIP: 06830, County: Western Connecticut Planning Region, State: Connecticut, Growth: 3.25%
+ZIP: 06830, County: Fairfield County, State: Connecticut, Growth: 3.25%
+ZIP: 08055, County: Burlington County, State: New Jersey, Growth: 3.25%
+ZIP: 50595, County: Hamilton County, State: Iowa, Growth: 3.25%
+ZIP: 67103, County: Sedgwick County, State: Kansas, Growth: 3.25%
+ZIP: 54230, County: Manitowoc County, State: Wisconsin, Growth: 3.24%
+ZIP: 04354, County: Waldo County, State: Maine, Growth: 3.24%
+ZIP: 66861, County: Marion County, State: Kansas, Growth: 3.24%
+ZIP: 30728, County: Walker County, State: Georgia, Growth: 3.24%
+ZIP: 83327, County: Camas County, State: Idaho, Growth: 3.24%
+ZIP: 04360, County: Kennebec County, State: Maine, Growth: 3.24%
+ZIP: 06032, County: Capitol Planning Region, State: Connecticut, Growth: 3.24%
+ZIP: 06032, County: Hartford County, State: Connecticut, Growth: 3.24%
+ZIP: 78654, County: Burnet County, State: Texas, Growth: 3.23%
+ZIP: 19936, County: Kent County, State: Delaware, Growth: 3.23%
+ZIP: 43402, County: Wood County, State: Ohio, Growth: 3.23%
+ZIP: 06794, County: Litchfield County, State: Connecticut, Growth: 3.23%
+ZIP: 06794, County: Northwest Hills Planning Region, State: Connecticut, Growth: 3.23%
+ZIP: 70767, County: West Baton Rouge Parish, State: Louisiana, Growth: 3.23%
+ZIP: 85543, County: Graham County, State: Arizona, Growth: 3.23%
+ZIP: 37601, County: Washington County, State: Tennessee, Growth: 3.22%
+ZIP: 38025, County: Dyer County, State: Tennessee, Growth: 3.22%
+ZIP: 74436, County: Muskogee County, State: Oklahoma, Growth: 3.22%
+ZIP: 70544, County: Iberia Parish, State: Louisiana, Growth: 3.22%
+ZIP: 50423, County: Hancock County, State: Iowa, Growth: 3.22%
+ZIP: 72150, County: Grant County, State: Arkansas, Growth: 3.21%
+ZIP: 04487, County: Penobscot County, State: Maine, Growth: 3.21%
+ZIP: 45363, County: Shelby County, State: Ohio, Growth: 3.21%
+ZIP: 78362, County: San Patricio County, State: Texas, Growth: 3.21%
+ZIP: 30052, County: Walton County, State: Georgia, Growth: 3.21%
+ZIP: 63549, County: Macon County, State: Missouri, Growth: 3.20%
+ZIP: 03801, County: Rockingham County, State: New Hampshire, Growth: 3.20%
+ZIP: 13697, County: St. Lawrence County, State: New York, Growth: 3.20%
+ZIP: 84070, County: Salt Lake County, State: Utah, Growth: 3.20%
+ZIP: 50105, County: Story County, State: Iowa, Growth: 3.20%
+ZIP: 35111, County: Tuscaloosa County, State: Alabama, Growth: 3.20%
+ZIP: 12183, County: Albany County, State: New York, Growth: 3.20%
+ZIP: 52135, County: Fayette County, State: Iowa, Growth: 3.20%
+ZIP: 50674, County: Bremer County, State: Iowa, Growth: 3.20%
+ZIP: 83536, County: Lewis County, State: Idaho, Growth: 3.20%
+ZIP: 83861, County: Benewah County, State: Idaho, Growth: 3.20%
+ZIP: 72638, County: Carroll County, State: Arkansas, Growth: 3.20%
+ZIP: 04221, County: Oxford County, State: Maine, Growth: 3.19%
+ZIP: 61745, County: McLean County, State: Illinois, Growth: 3.19%
+ZIP: 37711, County: Hawkins County, State: Tennessee, Growth: 3.19%
+ZIP: 84513, County: Emery County, State: Utah, Growth: 3.19%
+ZIP: 53091, County: Dodge County, State: Wisconsin, Growth: 3.19%
+ZIP: 63352, County: Audrain County, State: Missouri, Growth: 3.19%
+ZIP: 48650, County: Arenac County, State: Michigan, Growth: 3.18%
+ZIP: 48650, County: Bay County, State: Michigan, Growth: 3.18%
+ZIP: 06516, County: South Central Connecticut Planning Region, State: Connecticut, Growth: 3.18%
+ZIP: 06516, County: New Haven County, State: Connecticut, Growth: 3.18%
+ZIP: 74445, County: Okmulgee County, State: Oklahoma, Growth: 3.18%
+ZIP: 55109, County: Ramsey County, State: Minnesota, Growth: 3.18%
+ZIP: 72933, County: Franklin County, State: Arkansas, Growth: 3.18%
+ZIP: 41075, County: Campbell County, State: Kentucky, Growth: 3.18%
+ZIP: 35096, County: Talladega County, State: Alabama, Growth: 3.18%
+ZIP: 72916, County: Sebastian County, State: Arkansas, Growth: 3.18%
+ZIP: 35135, County: St. Clair County, State: Alabama, Growth: 3.18%
+ZIP: 83402, County: Bonneville County, State: Idaho, Growth: 3.18%
